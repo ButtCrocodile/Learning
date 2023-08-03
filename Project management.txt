@@ -1,0 +1,630 @@
+﻿Project 
+* A temporary endeavour that has a specific and unique goal and usually has a budget 
+* Has a definite beginning and end
+* Needs to have a clearly defined goal and what your trying to accomplish
+* It has a definite start and end point
+* Once the end point is reached, the project is over
+* It is attempting to achieve something new
+* Project must meet the customer or stakeholder requirement
+
+
+What is project management
+* Like answering a few questions 
+* What problem are you solving/what are you trying to do
+* How are you going to solve the issue (solutions)
+* Whats your plan (plan)
+* designed to assist managers in accomplishing definite goals by carefully organizing, controlling, and executing the project
+* challenge of software project management is to achieve project goals while keeping in mind the project scope, time, quality, and cost
+* Handles integration, cost, hr, stakeholder management, scope, quality, communications, procurement, risk management 
+
+
+Objectives
+* How does the project fit into the organization?
+* How will the project evolve over time?
+* What skills are required to manage the project successfully?
+* Development and Implementation of procedures
+* Efficient communication, collaboration, and productive guidelines
+* Achieve project goals within the estimated time with high quality
+* Allocate and optimize necessary resources to meet project goals
+* Meet the exclusive needs and requirements of the client
+
+
+ Project Management Lifecycle process is divided into four main parts
+* Project Management Life Cycle is a series of essential activities for accomplishing project objectives or targets
+* a framework that includes the stages to transform an idea into reality
+*  Projects may have different dimensions and difficulty levels, but they can be mapped to the Project Management life cycle structure, whatever the project’s size is
+  
+
+
+
+ Initiation Stage
+* Develop a Project Charter and
+* Identify Stakeholders
+
+
+Project charter
+* Document that allows a pm to utilize resources for the sake of the project to create a project charter
+* the inputs required will be enterprise environment factor, business case, agreements, a project statement of work and organizational process assets 
+* Project goals
+* Project constraints and Problem statements
+* Assign project manager
+* Stakeholder list
+* High-level schedule and budget
+* Milestones
+* Approvals
+
+
+Planning stage 
+* Identifying Stakeholders
+* stakeholder can influence the success and failure of the project
+* To note down the information about the stakeholder, a Stakeholder Register is used
+* the stakeholder register will have information like:Type of stakeholder, Expectation of stakeholder, Role in Project ( Business Analyst, Tech architect, Client PM), Designation (Director, Business Lead, etc.), Type Communication ( Weekly/Monthly), Influence on the project ( Partial/Supportive/Influensive)
+
+
+Develop project plan 
+* Project Planning phase covers about 50% of the whole process
+* Planning phase determines the scope of the project as well as the objective of the project
+* It begins with the outputs of initiation phase (charter, preliminary scope statement, and project manager)
+* The output of the planning phase serves as the input for the execution phase
+* important aspects of planning process are the planning phase should not be executed before your initial planning is finished
+* Until the execution process does not start, you should not stop revising plans
+* Who is going to do the work
+* Estimated time 
+* Estimated cost
+* Use over the course of the project
+* Directs peoples tasks 
+* Tracks projects progression 
+* Aids in course correction
+* Communicates progress with stakeholders 
+
+
+Work breakdown structure (wbs)
+* Easier to estimate time and cost 
+* Easier to assign work
+* conduct a brainstorm to list all the tasks
+* Involve your whole team for brainstorming
+* Write down the structure tree of the task also known as WBS (work breakdown structure)
+* Further breakdown your top WBS into a hierarchical set of activities, for instance, categories, sub-categories
+* Define how to record the items into your WBS
+* Ask other people: can be an expert, experienced personnel
+* Granularity: how detailed your task should you have
+* Estimating cost and time for higher granularity is hard while for lower granularity it will be bogged down with too detailed information
+* Granularity should be of right level not too high or not too low
+
+
+Creating wbs 
+* Breaking disown tasks
+* Break down into 8 to 80 hour taks 
+* Match to frequency of status report
+* Brainstorm with team to build wbs 
+* Conduct a brainstorm to list all the tasks
+* Involve your whole team for brainstorming
+* Write down the structure tree of the task also known as WBS (work breakdown structure)
+* Further breakdown your top WBS into a hierarchical set of activities, for instance, categories, sub-categories, etc. For example hardware, software, trainee, management teams, etc.
+* Define how to record the items into your WBS
+* Ask other people – it can be an expert, experienced personnel, etc.
+* Granularity- how detailed your task should you have? Estimating cost and time for higher granularity is hard while for lower granularity it will be bogged down with too detailed information
+* Granularity should be of right level not too high or not too low
+
+
+
+
+Defining activities 
+* the procedure for documenting and identifying specific actions to be performed to produce the project deliverables
+* each work package is broken down into individual work schedule activities
+* Schedule management plan
+* Scope baseline
+* Enterprise environmental factors
+* Organizational process assets
+
+
+Sequence activities 
+* logically organizing defines activities 
+* It determines the order in which the activities need to be performed
+
+
+Estimating Activity Resources
+* the process of estimating the work effort and resources required to complete the task 
+* The other factor that has to be considered at this stage is the availability of the resources
+* Estimate resources for: Critical tasks, Floating tasks
+* Schedule Management Plan
+* Activity list
+* Resource Calendar
+* Enterprise environmental factors
+* Organizational process assets
+
+
+Estimating activity durations 
+* the process of estimating the number of work periods (weeks/months) required to complete the individual task with estimated resources
+* cannot calculate activity duration without calculating the work effort and resources required to complete the task
+
+
+Develop schedule
+* the process of analyzing activity sequences, resource requirements, durations and schedule constraints to create the project schedule model
+* three main factors are taken into consideration: Duration, Task dependencies, Constraints
+* Can be things like project schedule, project network diagram, milestone chart, documentation
+
+
+
+
+Solution 
+* Requirements 
+* Deliverables 
+* Project scope 
+Plan 
+* Work 
+* Resources 
+* Schedule
+* Process 
+
+
+Project managements skills 
+* Technical 
+* Business expertise
+* Problem solving
+* interpersonal 
+
+
+Traditional monet lifcyle (waterfall) 
+* Have 5 stages or phases 
+* Initiate: define project, asses scope: resources needed, stakeholders, ask for approval
+* Plan: what are we going to do: how are we going to do it: how will we know when its done
+* Execution 
+* Manage and control: check progress, compare what's planned, occurs through most of project lifecylce
+* Close: client to approve and accept project is complete, Document performance 
+* Lesions learned 
+* Close contracts 
+*  Help resources more to next assignment
+* Works well when goals are clearly defined 
+* Simple 
+* Low risk 
+* Familiar technology
+* Experienced resources 
+
+
+Agile project management lifecycle 
+* Sprints deliver product features at regular intervals 
+* Value delivered sooner 
+* More customer involvement 
+* Small independent teams
+Envision 
+* Define the product vision 
+Speculate 
+* create , revise, and prioritize your feature list
+Explore 
+* Build and deliver the features for the sprint 
+Adapt 
+* Review results and change as needed 
+Close 
+* Record lessons learned 
+Project management software options 
+* Jira 
+* Microsft project
+* Liquid planner
+* Smartsheet 
+* Oracle primavera 
+* Wrike
+* Asana 
+
+
+Project Management Methodologies
+* Prince2
+* Agile
+* Six Sigma
+* Scrum
+* Kanban
+* Lean
+* Waterfall
+
+
+Waterfall Model:
+Waterfall model is based on the incremental model. In this method, the project is planned from top to bottom at once. The whole project will be divided into seven consecutive phases. In this method, all the features are delivered at once at the end of the cycle
+
+
+Agile:
+In this method the process design is broken into individual models. The development process is iterative, and the end of each iteration, shippable features of the product are delivered to the customer
+
+
+PRINCE 2:
+It is a general project management methodology and can be used for a project of any scale. It is a process-oriented approach with each process having inputs and outputs, tasks and activities to complete
+RAD:
+Rapid application development is a project management methodology used for software development, where the main purpose of developing application faster with high quality. The whole development process is defined into four phase
+
+
+Kanban:
+In Kanban methods, a board is used on which sticky notes are placed in the column as per the status of the task. The common status used for project task include “in queue”, “in progress” and “recently completed.”
+
+
+Six Sigma:
+The six sigma are preferred for a project that needs precise measure. It uses the statistics to improve processes and minimize defects in a product or service. It uses two different sets of methodologies DMAIC and DMADV
+
+
+SDLC:
+SDLC (System Development Life Cycle) is a generic approach to project management which cover basic project management concepts like needs analysis, design, training, delivery, and support
+
+
+Extreme Programming (XP):
+XP is frequently used for IT project management. Like scrum, XP also works in iteration but their iteration duration is usually short. The scope within each iteration is flexible as long as the work is not started
+
+
+Crystal Methodology:
+This method is quite supportive for fixed price contracts. Iterations in crystal method are released regularly. This method can detect any flaws in the early stage of the project, and errors are less likely to occur.
+
+
+CCPM (Critical Chain Project Management):
+This method reduce activity duration time by 50% hence project can be finished early. It uses buffer management to control the plan and ensures minimum error.
+
+
+
+
+Some tools work better for waterfall vs agile
+
+
+Steps of making projects 
+* Initiate project: assign pm, Prepare project charter: authorizes the project and authority of pm 
+* Identify project stakeholders: customer, project sponsor, department, team members: customer funds project, informs what needs to be done, approves deliverables 
+* Project sponsor, wants project to exceed 
+* spnrs , prioritize objectives, talk to stakeholders, suggest improvements
+* Functional manager, run departments, achieve department goalts, manage team members
+* Team members, perform tasks, execute assigments
+* departments invested and affected by project outcomes  
+
+
+Analyze project stakeholders 
+* Stakeholder analysis
+* Name, department/company, position, advisers, objectives, influence, project contribution, resistance
+
+
+Identify project goal 
+* Project goal 
+* Solves the problem 
+* Take advantage of opportunity 
+Problem statement 
+* Clearly defines the problem or opportunity 
+Define project goals 
+* Inform what needs to be achieved
+* Show how much has been achieved 
+* Tell what can be done with recourses available
+* Identify when objectives need to be achieved 
+Gather requirements 
+* Identify a projects true requirements 
+* Eliminate anything undeeded
+* Some challenges may come up: such as incorrect requirements, inconsistent requirements, missing requirements, unnecessary requirements, customers dont commit time
+Identify project deliverables and success criteria 
+* Deliverables Are measured by success criteria
+Deliverables 
+* define scope 
+* measure progress 
+Identify project assumptions and risks 
+* Use to fill missing info
+* Ask about expectations 
+* Make sure everyone is on the same page
+* Ask about questions multiple times 
+Risk 
+* A situation or event that may occur 
+* Document assumptions and risks
+Risk management 
+* the procedure of defining how to perform risk management activities for a project
+Risk identification 
+* the procedure of determining which risk may affect the project most. This process involves documentation of existing risks
+* Risk management plan
+* Project scope statement
+* Cost management plan
+* Schedule management plan
+* Human resource management plan
+* Scope baseline
+* Activity cost estimates
+* Activity duration estimates
+* Stakeholder register
+* Project documents
+* Procurement documents
+* Communication management plan
+* Enterprise environmental factor
+* Organizational process assets
+* Perform qualitative risk analysis
+* Perform quantitative risk analysis
+* Plan risk responses
+* Monitor and control risks
+Qualitative risk analysis 
+* the process of prioritizing risks for further analysis of project risk or action by combining and assessing their probability of occurrence and impact
+* Plan risk management should take place early in the project
+Quantitative risk analysis 
+* the procedure of numerically analyzing the effect of identified risks on overall project objectives
+  
+
+
+
+
+
+Plan and control 
+* enhance opportunities and to minimize threats to project objectives plan risk response is helpful
+* Control risk is the procedure of tracking identified risks, identifying new risks, monitoring residual risks and evaluating risk
+Prepare project scope 
+* Describes boundaries of project 
+* Get in writing to avoid scope creep
+The other activities involved in initiating process group
+* Assigning the project manager
+* Determining the stakeholder needs, expectations and high-level requirements
+* Define the project success criteria
+* Identify particular budget for particular stage
+* Make sure that the project is aligned with the organizations strategic goal
+Work package documents 
+* Describes what work needs to be done in detail
+* Detail depends on familiarity of work and experience of team embers 
+Resource management plan 
+* A plan that includes roles, responsibilities, reporting structure, skills, staffing
+Project schedule 
+* the process of establishing the procedure, policies and documentation for planning, managing, executing and controlling the project schedule
+* Project management plan
+* Project Charter
+* Enterprise environmental factors
+* Organizational process asset
+* Put tasks in order 
+* Estimate time it will take for tasks 
+* Assign tasks to project team
+* Calc task duration
+* Account for deadlines and other constraints 
+* Schedule management plan
+Defining Activities
+* the procedure for documenting and identifying specific actions to be performed to produce the project deliverables
+* schedule management plan
+* Scope baseline
+* Enterprise environmental factors
+* Organizational process assets
+* Activity list
+* Activity attributes
+* Milestone list
+Risk and risk planning 
+* Plan for what could go wrong 
+* Start with risks your aware of 
+* Account for unforeseeable events 
+* Document risks 
+* Evaluate risks need management 
+* Rate risks with probability and impact 
+three main communication aspects that need to monitor
+* Project team members to the project manager
+* Project managers to the program manager
+* Program manager to stakeholders or other sponsors
+* The input of managing communications include
+Communications management plan
+* Work performance reports
+* EEFs
+* OPAs
+* OPAs updates
+* Project communications
+* Project management plan updates
+* Project documents updates
+* Risk management plan
+* Project scope statement
+* Cost management plan
+* Schedule management plan
+* Human resource management plan
+* Scope baseline
+* Activity cost estimates
+* Activity duration estimates
+* Stakeholder register
+* Project documents
+* Procurement documents
+* Communication management plan
+* Enterprise environmental factor
+* Organizational process assets
+* Perform qualitative risk analysis
+* Perform quantitative risk analysis
+* Plan risk responses
+* Monitor and control risks
+Communication 
+* Ensure people get the info they need 
+* Plan projects and tasks 
+* there are three main communication aspects that need to monitor: Project team members to the project manager, Project managers to the program manager, Program manager to stakeholders or other sponsors
+The input of managing communications
+* Communications management plan
+* Work performance reports
+* EEFs
+* OPAs
+Manage Communications
+* the process of storing, distributing, collecting, and retrieving of project information in accordance with a communication plan
+* Enterprise environmental factors
+* Organizational process assets
+* Work performance reports
+* Communication management plan
+* While the output would be
+Project communications
+* Project management plan updates
+* Project documents updates
+* Organizational process assets updates
+Control communications 
+* the process of controlling and monitoring communication throughout the entire project lifecycle
+* Project management plan
+* Project communications
+* Issue log
+* Work performance data
+* Organizational process assets
+* While the output of this stage would be
+* Work performance information
+* Change requests
+* Project management plan updates
+* Project document updates
+* Organizational process updates
+Develop a plan 
+* Plan out costs 
+* Plan out time 
+* Plan out requirements 
+Change management plan 
+* Plan and manage important project changes 
+* Identify what you want to control: scope , plan, schedule
+* Define change management process, when someone requests a change 
+* Receive change request 
+* Evaluate change request 
+* Change review board reviews requests 
+* Set thresholds 
+Plan procurement 
+* Need to plan external resources 
+* Itendofy purchase needs 
+* Document procurement processes 
+* Describe make or buy process
+* Determine suitability
+* List potential vendors 
+Obtain approval to proceed 
+* Present plan 
+* Deal with issues 
+* Ask for signatures 
+Project schedule 
+
+
+Develop Schedule is the process of analyzing activity sequences, resource requirements, durations and schedule constraints to create the project schedule model
+* main factors are taken into consideration:Duration, Task dependencies, Constraints
+* Getting tasks in the right order
+* Define when project work should occur 
+* Each tasks has start and finish
+* Assignment resources to work packages 
+* Dont assign resources to summary tasks or milestones 
+* Make realistic schedules 
+
+
+A scheduling software can be used to create a schedule. It generates a schedule model with planned dates for completing project activities.
+* Schedule management plan
+* Activity list
+* Activity attributes
+* Project schedule
+* network diagrams
+* Activity resource requirements
+* Resource calendars
+* Activity duration estimates
+* Project scope statement
+* Risk register
+* Project staff assignments
+* Resource breakdown structure
+* Enterprise environmental factors
+* Organizational process assets
+* The output from this would be
+* Project Schedule
+* Project network diagram
+* Gantt charts or Bar charts
+* Milestone chart
+* Schedule baseline
+* Scheduled data
+* Project document updates
+
+
+Control Schedule
+* The last stage of the planning phase is Control Schedule
+* the process of monitoring the status of project activities to update project process and manage changes to the schedule baseline.
+* four main outputs of control schedule process: Project management plan, Schedule baseline, Schedule management plan, Project Schedule
+* Work performance information
+* Organizational process assets
+Project Execution Stage
+* consists of those activities that are defined in project management plan
+* process involves managing stakeholder expectations, coordinating with people and resources, as well as performing other activities related to project deliverables
+* During the execution phase, the result may require re-baselining and updates to existing project requirements
+* Action taken in execution phase may affect the project management plan or documents
+Direct and Manage Project Execution
+* consumes most of the project cost, time, and resources as this is the process that produces project deliverables
+* Project Management Plan
+* Approved change request
+* EEFs (Enterprise Environmental Factors)
+* OPAs (Organizational Process Assets)
+* During this stage, expert’s judgments, meetings, and reporting KPI (Key Performance Indicators) are of prime importance
+Agile project management 
+* Managing and implementing work 
+* Work is performs in time periods called sprints or iterations 
+* Showing or implementing features 
+* Impotence placed on people on interaction 
+* Produce a product not documentation 
+* Customer collabs throughout project 
+* Changes are expletive and welcomed 
+* defines scope then estimates cost , time and quality 
+Lifecylce 
+* Sprint planning 
+* daily scrum 
+* Sprint review 
+* Sprint retrospective 
+Stages 
+* Envision: project goal, objectives, team, guidelines 
+* Speculate: plan, requirements, features , estimates, risks 
+* Explore: build features, peer reviews, testing
+* Adapt: act on feedback, capture lessons learned
+* Close 
+Quality management plan 
+* Plan Quality process involves identifying which standard quality are relevant to the project and how to fulfill them
+* also includes identifying quality metrics and standard measures for project processes, regulatory compliance requirements, product functionality, documentation
+* Project management plan
+* Stakeholder register
+* Risk register
+* Requirements documentation
+* Enterprise environmental factors
+* Organizational process assets
+* Quality management plan
+* Process improvement plan
+* Quality metrics
+* Quality checklists
+* Project documents updates
+
+
+
+
+Quality Assurance
+* analyzing project quality and improve project quality
+*  the process of auditing the quality requirements and the results from quality control measurements
+* the process of recording and monitoring results of the quality activities to assess performance
+* Various tools like control charts, cost-benefit analysis, flowcharting, run charts, scatter diagrams, inspection & reviews
+Change request
+* Project management plan updates
+* Project document updates
+* Organizational process assets updates
+Quality control 
+* defines how the quality standard can comply with the defined quality standards
+* Quality control measurements
+* Validate changes
+* Verified deliverables
+* Work performance information
+* Change request
+* Project management plan
+* Project documents updates
+* Organizational process assets updates
+Hr plan 
+* includes the process of organizing, managing and leading the project team
+* defines the project roles and responsibilities, project organization charts and staff management plan
+* Project management plan
+* Activity resource requirements
+* Enterprise environmental factors
+* Organizational process assets
+* Human resource management plan
+
+
+Project Cost Estimation and Budgeting
+* the process of planning and controlling the project cost and budget effectively and efficiently.
+* Creating Work Breakdown Structure (WBS)
+* Develop Schedule
+* Plan human resources
+* Identifying risks
+* Project management plan
+* Project charter
+* Enterprise environmental factors
+* Organizational process assets
+* Cost Management Plan.
+* Creating estimation and costing for project is an extremely crucial part of any project management
+* Various things are taken in consideration while calculating budget for a project like labour costs, necessary equipment acquisition, material costs
+Project Cost Estimation
+* the process of approximating the total expenditure of the project
+* time and cost 
+* Common to get asked 
+* Estimate time to complete tasks
+* Costs are things ike materials or others like travel
+* Use more experienced members to get a barter estimate 
+* Dont have to be perfect off the bat 
+* Top down estimate: estimate phpases or major compnnets and break them into smaller pisces unti lyou get individual tasks
+* Bottom up: srtimate each tsks then add them up unt il you have the estimate for the entire project
+* Parametric estimating: Past data or record is used to estimate cost for the current project
+* Analogous Estimating: based on expert judgments and information based on similar previous projects
+* Want to pick between the shortest or best amount of time and the worst or longest amount of time
+* Choose the estimate with an acceptable orbablility of success
+Budget planning 
+* allocate and authorize the monetary resources required to complete the project
+*  determining the budget includes cost performance baseline
+* this stage explains the process of estimating the work effort and resources required to complete the task
+* A realistic estimate 
+* Cost to complete projectLabout coast is usually the biggest part (bruned costs, salrys , benefits)
+* Time-based resources
+* Locations or equipment 
+* Material cost, consumable good
+* Ancillary, travel, training, fees
