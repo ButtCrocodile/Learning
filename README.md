@@ -1,2 +1,2 @@
-# QA-Learning
-info about the basics of qa and software testing
+# Learning
+Various topics i find interesting related to video games, testing and game modding
