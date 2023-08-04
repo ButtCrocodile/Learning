@@ -1,0 +1,303 @@
+﻿About python
+* A programming language 
+* Gives us a way to communicate ideas
+* The ideas are commands when it comes to programming
+
+
+Comments
+* How we tell the program to ignore things 
+* Can also be used to comment about what we are doing in a program
+  
+
+
+
+
+
+VARIABLES
+* How we store info
+* Can be static or dynamic
+* Saves in memory
+
+
+
+
+Strings 
+* You store it in a variable[a] 
+* A string of text
+* Dont need a keyword to declare a variable
+* Use the + operator to add strings
+* Use curly brackets to format string[b]
+*     
+
+
+
+Modifying strings 
+   * Change what the string does depending on what you ask it to do
+  
+
+
+
+Taking some input 
+   * Use the input function to take in input 
+
+
+Numeric data types
+   * Stores in a variable 
+   * Integers are whole numbers 
+   * Floating point are decimal numbers 
+
+
+My_int = 7
+Print(my_int(
+
+
+My_flt = 3.7
+Print(my_flt)
+
+
+boolean 
+   * True or false values
+
+
+
+
+
+
+User input 
+   * A way to allow someone to add something in a prompt 
+   * input()
+   * Be careful with input stuff, by default python converts things into a string
+   * Use int function to convert functions into integers, use something similar depending on what your doing with the numbers
+  
+
+
+
+
+
+Lists 
+   * Useful for large amounts of data 
+   * A way to manage and store it 
+   * Use square brackets
+   * Can use ints, boolean and more
+  
+
+
+
+Prints everything in the list
+
+
+  
+
+
+
+Use indexes to print out or reference a specific item in the list
+   * Runs from 0 on
+  
+
+Can also reference items backwards
+  
+
+
+
+How you can change a list
+   *   
+
+
+
+
+
+Some functions in a list 
+   
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+
+
+
+
+Tuples 
+      * A type of data structure 
+      * A container to store different stuff
+      * Use open and closed parenthesis for a tuple
+      * Are immutable [c]
+  
+
+
+
+Functions 
+      * A collection of code that performed specific task
+      * Use a keyword to create function 
+      * Use def function
+      * Need to be indented
+      * Best to break code into different function
+  
+
+  
+
+  
+
+
+
+
+
+Abs function 
+      * Gives absolute value of something
+      * abs()
+Pow function 
+      * Calculates the exponential of a number
+Len function 
+      * Returns the length[d]  if an object
+      * len()
+Max function 
+      * Returns the max value from a sequence
+      * max()
+Min function 
+      * Returns the minimum value from a sequence 
+      * min()
+Sum function 
+      * Returns the sum of all elements
+      * sum()
+Round function 
+      * Rounds a number to a specified number of decimals
+      * round()
+Return statement
+      * A way to get info back from a function
+      *   If statements 
+         * A structure to make a decision 
+         *     
+
+
+
+  
+
+
+
+  
+
+
+
+If statements and comparisons 
+            * A way to compare values
+  
+
+
+
+Dictionaries 
+            * A special structure in python that allows to store info in something called key value pairs 
+            * The word is the key
+            * The value is the definition
+            * Can also use numbers
+  
+
+
+
+
+
+White loop 
+            * Allows us to go through a block of code multiple times 
+            * Keep going through loop until something is false
+  
+
+
+
+For loop 
+            * Allows us to loop over different collections of items
+            * Loop through strings, arrays, numbers 
+            * Have a specific purpose
+  
+
+
+
+  
+
+
+
+
+
+  
+
+
+
+  
+
+
+
+Exponent function 
+  
+
+
+
+Exponent function in a loop 
+
+
+  
+
+
+
+
+
+2d lists 
+            * Making lists if a list
+  
+
+
+
+nested loops
+            *   
+
+try/except
+               * Ways to handle/manage errors
+               *  A sort of way to add some code to “try”/test code and prints out errors
+
+
+  
+
+Reading files 
+               * Reading from external files 
+               * Use the read command
+  
+
+
+
+Writing and appending to files 
+               *   
+
+Modules and pip
+                  * A file that we can import into our current python file 
+                  * Has things like variables and functions
+                  * Use import  function 
+                  * Things like pygame, pyglet, python arcade academy and more are useful for game development
+Classes and objects 
+                  * Useful for making things more organized and powerful 
+                  * Creating our own data type
+  
+
+
+
+Object functions 
+                  *   
+
+inheritance 
+                     * An oop concept that allows you to create a new class based on an exshoting class
+                     * The new class inherits the attributes and behavours of the existing class 
+  
+
+[a]a way to store data and its values
+[b]to make your program cleaner
+[c]cant be changed or modified
+[d]the number of items
