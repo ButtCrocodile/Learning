@@ -1,0 +1,255 @@
+﻿Qa exists to prevent issues that may arise in games or software applications
+* So users dont see bugs and crashes
+
+
+Can be measured in different ways 
+- customer happiness, annual revenue, or how well the application runs over time 
+
+
+Each member of software and qa must work together 
+Quality is an ongoing process
+Roles and responsibilities 
+Important to have clear specifications
+* Code is then implemented 
+* Code is then tested 
+* Code is then released
+
+
+Good to have certain skills
+* Technical knowledge things like automated and manual testing, programming and scripting skills
+* Business knowledge: feature scoping, test planning, test case management, bug management
+* Dev ops principles: configure tools, setup ci, set up test environments, automate processes
+* Process and release knowledge: defending and improving testing practices
+
+
+Qa could share responsibilities
+* Work-based on strengths and preferences
+* Need to excel across most skills
+
+
+A test strategy 
+* Creating a test strategy describes how a product will be tested
+* Any can read and understand clearly
+* Intro: a high-level summary of the project
+* References: any relevant info for the project, can include repositories and tools
+* Qa deliverables: what a qa engineer will provide to the team, how quality will be maintained on a project, test plans for each feature, issues such as bugs and improvements 
+* Test plans: lists test scenarios 
+* Scope: what types of tests exist for the project
+
+
+
+
+Making a test plan
+* Each feature should have test  plan
+* Has four main parts: 
+* Scenario: explains the steps or actions that will be executed
+* Expected: what the outcome will be
+* Latest result: can be pass or fail
+* Automated: will it be automated or not
+* Should be updated when things change
+
+
+Writing acceptance criteria 
+* Conditions that a software product must satisfy to be accepted by a stakeholder
+* Define how each feature should look and function
+* Allow a developer to know what to implement code for, an analyst to what scope the story covers and qa to which to test
+* When testing complete 
+* unclear to know when you have done enough to move on to the next phase
+* Need to know what is supposed to be done should have sign-offs 
+* Better to take careful time rather than rush 
+
+
+Types of Testing 
+
+
+Black Box testing 
+* when the tester has no knowledge of the internal workings of the software being tested. 
+* tester only interacts with the software's inputs and outputs and observes the software's behaviour without knowing how the software processes the inputs or generates the outputs
+* to ensure that the software meets its functional requirements and specifications, as well as to identify any defects or errors in the software's behaviour
+* Typically used when software has already been developed and is in the later stages of the development lifecycle 
+
+
+Grey box testing 
+* tester has some knowledge of the internal workings of the software being tested
+* not a complete understanding of the code or the underlying architecture
+* often used in situations where there is a need to test specific parts of the software, such as a particular module or component, but where it is not necessary or practical to test the entire system using white box testing
+* useful in identifying defects that may be caused by the interaction between different components of the system
+* Examples of techniques used in grey box testing include code reviews, where the tester examines the code to identify potential defects, and data flow testing, where the tester examines the flow of data through the system to identify defects in data processing or storage
+
+
+White box testing 
+* the tester has access to the internal workings of the software being tested, such as the source code, algorithms, and data structures
+* tester uses this knowledge to design and execute test cases that test the internal logic and functionality of the software
+*  to ensure that the software functions correctly according to its design and implementation
+* typically performed during the early stages of software development, when the software is being designed and implemented, to ensure that it meets its functional requirements and to identify any defects or errors in the code
+* include unit testing, integration testing, and system testing
+
+
+Manual testing 
+* performed manually, without the use of automated testing tools
+* A type of black box testing
+* tester executes test cases, scenarios, or scripts that have been designed to verify the software's functionality, user interface, and other aspects of its behaviour
+* involves a tester interacting with the software through its user interface, entering data and commands, and observing the software's behaviour in response
+* manually record the results of the testing, such as any defects or errors that are found, and report them to the development team for correction
+
+
+Ui automation testing 
+* using automated testing tools to simulate user interactions with the software's user interface
+* to ensure that the software's user interface functions correctly, is easy to use, and provides a good user experience
+* use scripting or programming languages to automate the process of interacting with the software's user interface
+* can design and execute test scripts that simulate various user interactions with the software, such as clicking buttons, entering data, and navigating through menus and screens
+* used to test a variety of software applications, including web applications, mobile applications, and desktop applications
+* can help to reduce the time and effort required for manual testing, as well as the potential for human error
+
+
+Integration testing 
+* software testing that verifies the interaction between different components or modules of a software system
+* objective of integration testing is to identify defects or errors that may occur when different components are combined or integrated into a complete software system
+* typically performed after unit testing, which tests individual components or modules of the software in isolation
+* typically performed after unit testing, which tests individual components or modules of the software in isolation
+* can be performed at different levels, including component integration testing, which verifies the interaction between individual software components or modules, and system integration testing, which verifies the interaction between the software system and external systems or components
+
+
+Performance testing 
+* used to evaluate the speed, responsiveness, stability, scalability, and other performance characteristics of a software application or system under varying levels of workload or stress
+* identify performance bottlenecks and issues that could impact the overall user experience or business operations, such as slow response times, poor throughput, high resource utilization, and system crashes or failures
+* can be conducted using various techniques and tools, such as load testing, stress testing, endurance testing, spike testing, and scalability testing
+* performance testing are typically analyzed to optimize the application or system's performance, improve user experience, and ensure that it meets the desired performance goals and requirements
+
+
+
+
+Security testing 
+* used to identify and mitigate security vulnerabilities and risks in a software application or system
+* objective of security testing is to ensure that the application or system is secure and can withstand various types of security attacks, such as unauthorized access, data theft, injection attacks, cross-site scripting (XSS), cross-site request forgery (CSRF), and others
+* can be conducted using various techniques and tools, such as penetration testing, vulnerability scanning, code reviews, threat modelling, and security audits
+* typically used to identify security weaknesses and prioritize security measures to be implemented, such as applying security patches, updating access controls, improving encryption methods, and enhancing security protocols
+Unit testing 
+* Testing individual components or units of code 
+* Focuses on verifying the behaviour of small independent parts of the software or game
+Functional testing 
+* Evaluates whether the software or game meets the specific function requirements 
+* tests the features, functionalities, and behaviours of the software or game to ensure they work as intended
+Compatibility 
+* checks the software or game's compatibility with different platforms, operating systems, browsers, or devices
+* ensures that the software or game works correctly across various configurations
+
+
+Usability testing 
+* focuses on assessing the software or game's user-friendliness, intuitiveness, and overall user experience
+* involves gathering feedback from users and evaluating how well they can interact with and navigate the software or game
+
+
+Regression testing 
+* verifies that changes or updates to the software or game have not introduced new defects or caused previously working features to break
+* ensure that the overall system remains stable after modifications
+
+
+Localization testing 
+* ensures that the software or game functions correctly when translated or adapted for different languages, cultures, or regions
+* it validates the proper display of translated text, date and time formats, currency symbols, and other localized aspects
+
+
+User acceptance testing (UAT)
+* involves testing the software or game with real end-users or stakeholders to validate its readiness for deployment or release
+* focuses on ensuring that the software or game meets user expectations and business requirements
+
+
+Exploratory testing
+* exploring the software application or system to identify potential defects or issues that were not covered by the predefined test case
+* Ad-hoc testing:
+* testing the software application or system without any specific plan or documentation, relying on the tester's experience and intuition to identify defects or issues
+* Regression testing:  retesting the software application or system after modifications or changes have been made to ensure that the changes did not introduce new defects or issuesExploratory testing: exploring the software application or system to identify potential defects or issues that were not covered by the predefined test case
+* Ad-hoc testing:  testing the software application or system without any specific plan or documentation, relying on the tester's experience and intuition to identify defects or issues
+* Regression testing:  retesting the software application or system after modifications or changes have been made to ensure that the changes did not introduce new defects or issues
+
+
+
+
+Bug testing 
+* Are inevitable
+* An incorrect or unexpected behaviour 
+* The first bug was in 1986
+* Examples: logic errors, performance issues, security vulnerabilities
+
+
+Reporting bugs 
+* Any identified bug should be reported right away
+* Bug reporting systems make it easier to triage reports and manage bugs
+* Can use jira, rally, github, bugzilla and more
+* Should include details such as the name of bug, description, steps to reproduce, actual result, expected result, a video or photo of evidence, logs, any tags , priority and status
+Bug triage 
+* Need to give severity and priority of bug
+* Severity is how impactful the bug is to the business
+* Priority is how fast a bug should be fixed
+* Low severity and low priority affect few customers and don't have a major effect on workflow, not impactful
+* Low severity and high priority, not causing a lot of disruption to the site, Visible, not preventing users from completing the workflow
+* High severity low priority: a major problem only under certain circumstances
+* High severity, high priority: a major problem that affects many users, service disruption, unusable application in some workflows
+* Order can be 1-4 or low medium and high
+* Not all bugs should be fixed, its deal to bug not always time worthy
+* Always fix most important as soon as possible 
+
+
+Manual testing
+* software testing technique that involves the manual execution of test cases by human testers, without the use of automation tools or scripts
+* testers typically follow a predefined set of test cases or scenarios to validate the functionality, usability, performance, security, and other aspects of a software application or system
+* Advantages: 
+* Human intelligence and intuition
+* Better for small and complex features
+* Cost-effective
+Disadvantages: 
+* Time-consuming and error-prone
+* Challenging to scale large projects
+
+
+Automated testing 
+* involves the use of automation tools or scripts to execute test cases automatically. In automated testing, testers write test scripts or use existing automation tools to perform functional, performance, security, and other types of testing
+Advantages: 
+* Faster and more efficient
+* Increased test coverage
+* reusability 
+Disadvantages: 
+* Poor setup time and time costs
+* Maintenance and updates
+* False positives and negatives
+
+
+Test automation
+* Some types are: unit tests, integration, component, functional and ui
+
+
+Agile testing quadrants
+* Use to classify tests
+* categorize and prioritize different types of software testing based on the testing objectives and the level of customer collaboration
+
+
+Four quadrants: technology facing and technology, guide development, critique product
+
+
+Quadrant Q1: Business-facing tests: 
+* deals with tests that focus on the business value of the software, such as user acceptance testing, usability testing, and exploratory testing
+Quadrant Q2: Technology-facing tests: 
+* deals with tests that focus on the technical aspects of the software, such as performance testing, security testing, and compatibility testing
+Quadrant Q3: Supporting tests: 
+* deals with tests that support the main testing objectives, such as test automation, infrastructure testing, and tooling
+Quadrant Q4: Critique tests: 
+* This quadrant deals with tests that provide feedback on the software, such as code reviews, static analysis, and peer reviews
+Test pyramid
+* used in software development that focuses on building a balanced and efficient automated testing suite
+*  consists of three levels of testing, with each level having a specific purpose and focus
+
+
+Unit Tests: The base of the pyramid consists of Unit Test
+* automated tests that focus on testing individual functions or code units. Unit tests are fast, reliable, and easy to create and maintain. 
+*  help in identifying issues early in the development cycle, making it easier to fix them before they become more complex and costly
+
+
+Integration Tests: The middle layer of the pyramid
+* testing the interactions between different components or modules of the software system.
+*  Integration tests are slower and more complex than unit tests but provide greater coverage and help in identifying issues that may arise due to the interactions between different components
+
+
+End-to-End Tests: top layer of the pyramid
+* testing the complete workflow or user journey through the software system. 
+* End-to-end tests are the slowest and most complex of the three types of tests, but they provide the highest level of coverage and help in identifying issues that may arise due to the interaction between different components in the system

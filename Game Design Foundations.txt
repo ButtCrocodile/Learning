@@ -1,0 +1,1956 @@
+﻿* Goal is to create virtual worlds and experiences  
+* Game dsign is coming up with the core ideas of a game, like how the worl looks, its mechanics and story 
+* Game developer is one who creates the technical parts of the game like art and programming 
+ 
+
+Types of game designers  
+* Lead game designer or lead director: you define the game, work vision is being made. Establish the core of the game, lead others, and review  
+* Level designers: you design things like the level, planning game experiences, usually artists or programmers. Make things work 
+* System designers: create the gears of the game 
+* Creative director: lead the creative aspects of a game 
+ 
+Generating game ideas  
+* Sometimes ideas pop up randomly 
+* Sometimes we need to sit and write 
+* Sometimes ideas come up when interacting with people or things 
+* Thinking of a specific genre and adding onto the core concepts 
+* Keep something where you can write notes for any ideas 
+
+
+The core of a game 
+* The game itself  
+* Features support the gameplay and make it stronger 
+* The one thing the game is about  
+* The game's purpose 
+ 
+
+Core loop of a game 
+
+
+In the beginning there is the designer 
+ 
+Skills a game designer needs  
+* Animation: characters need to look and feel alive 
+* Anthropology: studying people 
+* Architecture: Designing  
+* Brainstorming: thinking critically, creating new ideas  
+* Business: the business side of things 
+* Cinematography: want to deliver a compelling experience  
+* Communication: learn to speak bruh 
+* Creative writing:  creating fictional worlds 
+* Economics: the rules of economics  
+* Engineering: coding and stuff 
+* Games: …duh 
+* History: historical events in games 
+* management : managing things 
+* Math: bleh 
+* Music: language of the soul 
+* Physcology: understanding the working of a human 
+* Public speaking: dont pee your pants  
+* Sound design: things sound good  
+* Technical writing: documents that clearly desiribe your designs  
+* Visual arts: graphic stuff 
+
+
+
+
+
+
+Psychology 
+* Their primary tool was objective, controlled experimentation
+* the behavioristic focus on objective, repeatable experiments makes for very good science
+* Though psychology does not have all the answers we need, it does provide some very useful ones
+*  perhaps there is another scientific approach that lies somewhere between the two extremes of behaviorism and phenomenology
+
+
+Anthropology
+* takes a much more holistic approach than psychology, looking at everything about people including their physical, mental, and cultural aspects
+*  It is very concerned with studying the similarities and differences between the various peoples of the world, not just today, but throughout history.
+Design 
+* We will be able to learn useful things from almost every kind of designer: musicians, architects, authors, filmmakers, industrial designers, web designers, choreographers, visual designers, and many more
+* The incredible variety of design “rules of thumb” that comes from these different disciplines does an excellent job of illustrating useful principles about human experience
+* these principles can often be hard for us to use
+
+
+Most important skill is listening  
+* Game designers must listen to many things  
+* Grouped into 5 major categories: team, audience, game , client, self 
+* Deeper and thoughtful listening  
+ 
+
+Five kinds of listening  
+Team:  
+* since you will be building your game and making crucial game design decisions together with them
+* If you can listen deeply to your team and truly communicate with them, you will all function as one unit, as if you all shared the same skills.
+
+
+Audience: 
+* these are the people who will be playing your game
+* if they aren’t happy with your game, you have failed
+* the only way to know what will make them happy is to listen to them deeply, getting to know them better than they know themselves
+
+
+Game: 
+* you will get to know your game inside and out
+* you will get to know what is wrong with your game by listening to it being played
+
+
+Client: 
+* The client is the one who is paying you to design the game, and if you don’t give them what they want, they’ll go to someone else who does
+* Only by listening to them, deeply, will you be able to tell what they really want, deep in their hearts.
+* Self: 
+* the most difficult kind of listening
+*  If you can master it, however, it will be one of you
+The secret of the gifted 
+* You might have noticed that skilled game designers seem to have a special gift for the work
+* It comes easily and naturally to them, and though you love games, you wonder if you are gifted enough to succeed as a designer
+*  innate gift of a given skill
+* love of the work
+
+
+The designer creates an experience 
+*  a game designer does not care about games
+* Games are merely a means to an end
+* On their own, games are just artifacts—clumps of cardboard or bags of bits.
+* Games are worthless unless people play them
+* When people play games, they have an experience
+* It is this experience that the designer cares about
+* Without the experience, the game is worthless
+
+
+The game is not the experience 
+* The game enables the experience, but it is not the experience
+* Game designers only care about what seems to exist
+* The player and the game are real.
+* The experience is imaginary—but game designers are judged by the quality of this imaginary thing because it is the reason people play games
+* we are far removed from what we are actually trying to create.
+* We create an artifact that a player interacts with and cross our fingers that the experience that takes place during that interaction is something they will enjoy
+* We never truly see the output of our work, since it is an experience had by someone else and, ultimately, unsharable.
+* deep listening is so essential for game design
+
+
+Is this unique to games 
+* Game designers have to cope with much more interaction than the designers of more linear experiences
+* Game designers don’t have it so easy
+* We give the player a great deal of control over the pacing and sequence of events in the experience
+* We even throw in random events! This makes the distinction between artifact and experience much more obvious than it is for linear entertainment.
+* it makes it much harder to be certain just what experience is really going to arise in the mind of the player.
+* As with everything else game designers do, we do it for the experience it creates
+
+
+Thre practical approaches 
+* create games that will somehow generate wonderful, compelling, memorable experiences
+* uncover both the mysteries of the human mind and the secrets of the human heart
+* psychology, anthropology, and design
+* Psychologists want to understand the mechanisms that make people tick
+* anthropologists want to understand people on a human level
+* designers just want to make people happy
+
+
+
+
+intro spection can lead to false conclusions about reality 
+* often because what seems to be true in our personal experience is not necessarily really true
+* game design is not science
+* when dealing with the human heart and mind and trying to understand experience and what things feel like, introspection is an incredibly powerful and trustworthy tool
+* As game designers, we don’t need to worry much about this first peril.
+* care more about how things feel and less about what is really true.
+
+
+What is true of my experiences may not be true for others 
+* Game designers tend to have unusual tastes. There may not be enough people like you out there to make your game a worthwhile investment. 
+* You won’t be designing or developing alone. If different team members have different ideas about what is best, they can be hard to resolve. 
+* There are many kinds of games and audiences that will be completely off limits to you
+*  You can’t leave every decision to playtesting, especially early in the process, when there is no game yet to playtest. 
+* Before a game is completely finished, playtesters may reject an unusual idea. 
+* Playtesting can only happen occasionally. Important game design decisions must be made on a daily basis.
+
+
+You must be able to clearly state what you like, what you don’t like, and why
+
+
+Lens of emotion: to make sure the emotions you create are the right ones, ask yourself these questions:
+* What emotions would I like my player to experience? Why? 
+* What emotions are players (including me) having when they play now? Why? 
+* How can I bridge the gap between the emotions players are having and the emotions I’d like them to have?
+
+
+Analyzing an experience while it is happening can be hard, because the part of your mind used for analysis is normally focused on the experience itself. Analyzing your memory of an experience is much easier. Memory is imperfect, but analyzing a memory is better than nothing
+
+
+A method that builds on analyzing memories is to run through your experience twice
+
+
+
+you want to observe what is happening to you while it is happening, not just through a few quick glances but through continuous observation. You want it to be as if you were sitting outside yourself, watching yourself, except that you see more than a normal observer. You can hear all of your thoughts and feel all of your feelings
+
+
+Take a few short glances at your experiences , and they won’t notice you are observing them
+
+
+When you enter this state, it is almost as if you have two minds: one moving, engaged in an experience, and one still, silently observing the other
+
+
+Essential experience 
+* don’t need to perfectly replicate real experiences to make a good game. 
+* What you need to do is to capture the essence of those experiences for your game
+* Every memorable experience has some key features that define it and make it special
+* As a game designer trying to design an experience, your goal is to figure out the essential elements that really define the experience you want to create and find ways to make them part of your game design
+* the players of your game get to experience those essential elements
+
+
+Lens of essential experience: you stop thinking about your game and start thinking about the experience of the player. Ask yourself these questions:
+
+
+* What experience do I want the player to have? 
+* What is essential to that experience? 
+* How can my game capture that essence?
+
+
+The experience rises out of a game 
+* Creating great experiences is indeed our goal. 
+* But we cannot touch experiences.
+* cannot manipulate them directly. What a game designer can control, can get their hands in, is the game
+
+
+What is a game 
+* A game is something you play
+* A toy is something you play with
+* A toy is an object you play with
+* A good toy is an object that is fun to play with
+* Fun is pleasure with surprises
+
+
+Lens of surprise: Surprise is so basic that we can easily forget about it. Use this lens to remind yourself to fill your game with interesting surprises. Ask yourself these questions
+*  What will surprise players when they play my game? 
+* Does the story in my game have surprises? Do the game rules? Does the artwork? The technology? 
+* Do your rules give players ways to surprise each other? 
+* Do your rules give players ways to surprise themselves?
+* Surprise is a crucial part of all entertainment—it is at the root of humor, strategy, and problem solving
+Lens of fun: Fun is desirable in nearly every game, although sometimes fun defies analysis. To maximize your game’s fun, ask yourself these questions:
+*  What parts of my game are fun? Why?
+*  What parts need to be more fun?
+Lens of curiosity: think about the player’s true motivations—not just the goals your game has set forth but the reason the player wants to achieve those goals. Ask yourself these questions
+* What questions does my game put into the player’s mind? 
+* What am I doing to make them care about these questions? 
+* What can I do to make them invent even more questions
+
+
+Lens of endogenous value: A game’s success hinges on the players’ willingness to pretend it is important. To use this lens, think about your players’ feelings about items, objects, and scoring in your game. Ask yourself these questions: 
+* What is valuable to the players in my game? 
+* How can I make it more valuable to them? 
+* What is the relationship between value in the game and the players’ motivations?
+Lens of problem solving: To use this lens, think about the problems your players must solve to succeed at your game, for every game has problems to solve. Ask yourself these questions:
+* What problems does my game ask the player to solve? 
+* Are there hidden problems to solve that arise as part of gameplay? 
+* How can my game generate new problems so that players keep coming back?
+
+
+The game consists of elements 
+* There are many ways to break down and classify the many elements that form a game
+
+
+  
+
+
+
+Mechanics: 
+* the procedures and rules of your game. 
+* Mechanics describe the goal of your game, how players can and cannot try to achieve it, and what happens when they try. 
+* compare games to more linear entertainment experiences, you will note that while linear experiences involve technology, story, and aesthetics, they do not involve mechanics, for it is mechanics that make a game a game. 
+Story: 
+* the sequence of events that unfolds in your game. 
+* It may be linear and pre-scripted, or it may be branching and emergent.
+*  When you have a story you want to tell through your game, you have to choose the mechanics that will both strengthen that story and let that story emerge.
+* you will want to choose the aesthetics that help reinforce the ideas of your story and the technology that is best suited to the particular story that will come out of your game. 
+
+
+Aesthetics: 
+* how your game looks, sounds, smells, tastes, and feels. 
+* an incredibly important aspect of game design since they have the most direct relationship to a player’s experience. 
+* When you have a certain look, or tone, that you want players to experience and become immersed in, you will need to choose a technology that will not only allow the aesthetics to come through but amplify and reinforce them.
+*  You will want to choose the mechanics that make players feel like they are in the world that the aesthetics have defined, and you will want a story with a set of events that let your aesthetics emerge at the right pace and have the most impact. 
+
+
+Technology: 
+* any materials and interactions that make your game possible such as paper and pencil, plastic chits, or high-powered lasers. 
+* The technology you choose for your game enables it to do certain things and prohibits it from doing other things. 
+* the technology is essentially the medium in which the aesthetics take place, in which the mechanics will occur, and through which the story will be told. 
+* All new games need to be innovative in some way
+
+
+Lens of elemental tetrad: To use this lens, take stock of what your game is truly made of. Consider each element separately and then all of them together as a whole. Ask yourself these questions
+* Is my game design using elements of all four types? 
+* Could my design be improved by enhancing elements in one or more of the categories? 
+* Are the four elements in harmony, reinforcing each other and working together toward a common theme?
+
+
+Lens of holographic design: To use this lens, you must see everything in your game at once: the four elements and the player experience, as well as how they interrelate. It is acceptable to shift your focus from skin to skeleton and back again, but it is far better to view your game and experience holographically
+* What elements of the game make the experience enjoyable? 
+*  What elements of the game detract from the experience? 
+* How can I change game elements to improve the experience?
+
+
+The elements support a theme 
+* Great themes and deep meanings are often associated with literature or with great works of art
+* as game designers, we must confront the painful truth that many people view games, in all their forms, as meaningless diversions
+* Some people make the argument that games, especially videogames, cannot be deep and meaningful because they are simply too primitive in nature
+
+
+Unifying themes 
+* The theme is what your game is about
+* the idea that ties your entire game together
+* The primary benefit of basing your design around a single theme is that all of the elements of your game will reinforce one another
+* The sooner you have settled on a theme, the easier things will be for you, because you will have an easy method of deciding if something belongs in your game or not: If it reinforces the theme, it stays, but if it doesn’t, it goes
+Two steps to using a theme 
+* Figure out theme 
+* Use every means to reinforce theme 
+
+
+Lens of unification: To use this lens, consider the reason behind it all. Ask yourself these questions
+*  What is my theme? 
+* Am I using every means possible to reinforce that theme?
+
+
+A unifying theme is good—it focuses your design toward a single goal. But some themes are better than others. The best themes are ones that resonate with players— themes that touch players deeply
+
+
+Lens of resonance: To use the Lens of Resonance, you must look for hidden power. Ask yourself these questions: 
+* What is it about my game that feels powerful and special? 
+* When I describe my game to people, what ideas get them really excited? 
+* If I had no constraints of any kind, what would this game be like? 
+* I have certain instincts about how this game should be. What is driving those instincts?
+
+
+Some elements are game mechanics
+* Game mechanics are the core of what a game truly is
+* They are the interactions and relationships that remain when all of the aesthetics, technology, and story are stripped away
+* we do not have a universally agreed-upon taxonomy of game mechanics
+* even for simple games, tend to be quite complex and very difficult to disentangle
+
+
+Mechanic 1: Space 
+* this space is the “magic circle” of gameplay
+* defines the various places that can exist in a game and how those places are related to one another
+* space is a mathematical construct
+* need to strip away all visuals, all aesthetics, and simply look at the abstract construction of a game’s space
+
+
+Game spaces 
+* Are either discrete or continuous 
+* Have some number of dimensions 
+* Have bounded areas that may or may not be connected
+
+
+
+
+
+
+Nested spaces[a] 
+
+
+  
+
+
+
+Zero dimensions 
+
+
+* Does every game take place in a space
+
+
+Lens of functional space: To use this lens, think about the space in which your game really takes place when all surface elements are stripped away. Ask yourself these questions: 
+* Is the space of this game discrete or continuous? 
+* How many dimensions does it have? 
+* What are the boundaries of the space? 
+*  Are there subspaces? How are they connected? 
+* Is there more than one useful way to abstractly model the space of this game
+* When thinking about game spaces, it is easy to be swayed by aesthetics
+* There are many ways to represent your game space, and they are all good, as long as they work for you
+* When you can think of your space in these pure abstract terms, it helps you let go of assumptions about the real world 
+Mechanic 2: time 
+* In the real world, time is the most mysterious of dimensions
+Discrete and continuous time 
+* Just as space in games can be discrete or continuous, so can time
+* have a word for the unit of discrete time in a game: the “turn.”
+* in turn-based games, time matters little
+* Each turn counts as a discrete unit of time
+*  the time between turns doesn’t exist
+
+
+Clocks and races 
+* Clocks of varying types are used in many games
+* set absolute time limits for all kinds of things
+* Timers can be used 
+* Races add rather pressure to be faster than another player
+
+
+Controlling time
+* happens in a number of ways 
+* Sometimes we stop time completely, as when a “time-out” is called in sporting match or when the “pause” button is pushed on a videogame
+* We speed up time, as happens in games like Civilization, so that we can see years pass in just seconds
+
+
+Lens of time: Our goal as designers is to create experiences, and experiences are easily spoiled when they are too short or too long, too fast or too slow. Ask these questions to make yours just the right length: 
+* What is it that determines the length of my gameplay activities? 
+* Are my players frustrated because the game ends too early? How can I change that? 
+* Are my players bored because the game goes on too long? How can I change that?
+*  Would clocks or races make my gameplay more exciting? 
+* Time limits can irritate players. Would I better off without time limits? 
+* Would a hierarchy of time structures help my game? That is, several short rounds that together comprise a larger round?
+Mechanic 3 objects: 
+* Space without anything is just space
+* Game space will have objects in it
+* Characters, props, tokens, scoreboards, or anything that can be seen or manipulated in your game falls into this category
+* Objects are the “nouns” of game mechanics
+* Objects generally have one or more attributes, one of which is often the current position in the game space
+* Attributes are categories of information about an object
+* Attributes can be static like colour, never changing
+* Can be dynamic
+
+
+Lens of the state machine: to use this lens, think about what information changes during your game. Ask yourself these questions: 
+* What are the objects in my game? 
+* What are the attributes of the objects? 
+* What are the possible states for each attribute? 
+* What triggers the state changes for each attribute?
+Secrets 
+* A very important decision about game attributes and their states is who is aware of which ones
+* is information that is completely public, such as the position playing piece on a game board, or a face-up card. All the players are aware of it
+*  is the state that is shared between players 2 and 3 but kept secret from player 1. Perhaps 2 and 3 each had the opportunity to look at a face-down card, but player 1 didn’t. Or maybe players 2 and 3 are virtual opponents of player 1, and their algorithm has them sharing information so they can team up against player 1
+* is information private to a single player, in this case player 2. It could be cards he was dealt, for example
+*  is information that the game knows about, but not the players themselves
+* is randomly generated information, known only by the fates, god, etc
+
+
+Lens of secrets: Change who has what information, and you change your game completely. To use this lens, think about who knows what and why. Ask yourself these questions: 
+* What is known by the game only? 
+* What is known by all players? 
+* What is known by some or only one player? 
+* Would changing who knows what information improve my game in some way
+Actions 
+* the “verbs” of game mechanics
+* two perspectives on actions or, put another way, two ways to answer the question “What can the players do?
+* The first kind of action is the basic action, the base actions a player can take: moving forward
+* The second kind of action is strategic action
+* These are actions that are only meaningful in the larger picture of the game
+* they have to do with how the player is using basic actions to achieve a goal
+* building 
+
+
+The strategic actions often involve subtle interactions within the game and are often very strategic moves. 
+
+
+These actions are mostly not part of the rules, per se, but rather actions and strategies that emerge naturally as the game is played
+
+
+Add more verbs: 
+* add more basic actions
+* strategic actions appear when basic actions interact with each other, with objects, and with the game space
+
+
+Verbs that can act on many objects:
+* This is possibly the single most powerful thing you can do to make an elegant, interesting game
+* If you give a player a gun that can only shoot bad guys, you have a very simple game
+
+
+Goals that can be achieved more than one way: 
+* It’s great to let players do all kinds of different things in your game, giving them lots of verbs, and verbs with lots of objects
+
+
+Many subjects: 
+* The number of strategic actions seems to have roughly a magnitude of subjects times verbs times objects
+* adding more subjects is very likely to increase the number of strategic actions
+
+
+Side effects that change constraints:
+* Think how different checkers would be if multiple pieces could peacefully cohabitate on a single square
+
+
+Lense of emergence: to make sure your game has interesting qualities of emergence, ask yourself these questions: 
+* How many verbs do my players have? 
+* How many objects can each verb act on?
+* How many ways can players achieve their goals? 
+* How many subjects do the players control? 
+* How do side effects change constraints
+Lens of action: To use this lens, think about what your players can do and what they can’t and why. Ask yourself these questions: 
+* What are the basic actions in my game? 
+* What are the strategic actions? 
+* What strategic actions would I like to see? How can I change my game in order to make those possible? 
+* Am I happy with the ratio of strategic to basic actions? 
+* What actions do players wish they could do in my game that they cannot? Can I somehow enable these, either as basic or strategic actions? 
+Rules 
+* The rules are really the most fundamental mechanic. 
+* They define the space, the timing, the objects, the actions, the consequences of the actions, the constraints on the actions, and the goals
+Parlett’s Rule Analysis
+
+
+  
+
+
+
+Operational rules: 
+*  the easiest to understand. 
+*  “What the players do to play the game.”
+
+
+Foundational rules: 
+* the underlying formal structure of the game. 
+* The operational rules might say “The player should roll a six-sided die, and collect that many power chips.” The foundational rules would be more abstract: 
+* “The player’s power value is increased by a random number from 1 to 6.”
+
+
+Behavioral rules: 
+* rules that are implicit to gameplay, which most people naturally understand as part of “good sportsmanship.”
+
+
+Written rules:
+* the “rules that come with the game,” the document that players have to read to gain an understanding of the operational rules
+Laws: 
+* only formed when games are played in serious, competitive settings, where the stakes are high enough that a need is felt to explicitly record the rules of good sportsmanship or where there is need to clarify or modify the official written rules
+Official rules:
+* These are created when a game is played seriously enough that a group of players feels a need to merge the written rules with the laws
+Advisory rules: 
+* Often called “rules of strategy,” these are just tips to help you play better, and not really “rules” at all from a game mechanics standpoint
+Modes
+* Many games have very different rules during different parts of play
+* The rules often change completely from mode to mode, almost like completely separate games
+Emforcer 
+* most significant differences between videogames and more traditional games is who enforces the rules
+* Sometimes its people or the computer 
+Cheatability 
+* games need an enforcer is to prevent cheating
+* Violating the rules is bad gamesmanship
+
+
+The object of the game is the most important rule 
+*  Concrete: Players understand and can clearly state what they are supposed to achieve.
+* Achievable: Players need to think that they have a chance of achieving the goal. If it seems impossible to them, they will quickly give up
+* Rewarding: A lot goes into making an achieved goal rewarding. If the goal has the right level of challenge, just achieving it at all is a reward in itself. But why not go further
+
+
+Lens of goals: To ensure the goals of your game are appropriate and well balanced, ask yourself these questions: 
+* What is the ultimate goal of my game? 
+* Is that goal clear to players? 
+* If there is a series of goals, do the players understand that? 
+* Are the different goals related to each other in a meaningful way? 
+* * Are my goals concrete, achievable, and rewarding?
+*  Do I have a good balance of short- and long-term goals? 
+* Do players have a chance to decide on their own goals?
+Lens of rules: To use this lens, look deep into your game, until you can make out its most basic structure. Ask yourself these questions: 
+* What are the foundational rules of my game? How do these differ from the operational rules? 
+* Are there “laws” or “house rules” that are forming as the game develops? Should these be incorporated into my game directly? 
+* Are there different modes in my game? Do these modes make things simpler, or more complex? Would the game be better with fewer modes? More modes? 
+* Who enforces the rules? 
+* Are the rules easy to understand, or is there confusion about them
+Skill 
+* shifts the focus away from the game and onto the player
+
+
+Physical skills: 
+* These include skills involving strength, dexterity, coordination, and physical endurance. 
+* Effectively manipulating a game controller is a kind of physical skill, but many videogames require a broader range of physical skills from players. 
+Mental skills: 
+* These include the skills of memory, observation, and puzzle solving
+* some people shy away from games that require too much in the way of mental skills
+Social skills: 
+*  reading an opponent 
+* fooling an opponent
+* coordinating with teammates
+Real vs virtual skills 
+* a real skill the player must have
+* one that the player is pretending to have
+Lens of skill: To use this lens, stop looking at your game, and start looking at the skills you are asking of your players. Ask yourself these questions: 
+* What skills does my game require from the player?
+*  Are there categories of skill that this game is missing? 
+* Which skills are dominant? 
+* Are these skills creating the experience I want? 
+* Are some players much better at these skills than others? Does this make the game feel unfair? - Can players improve their skills with practice, leading to a feeling of mastery? 
+* Does this game demand the right level of skill?
+Chance 
+* concerns interactions between all of the other six mechanics: space, time, objects, actions, rules, and skills
+* an essential part of a fun game because chance means uncertainty, and uncertainty means surprises
+* surprises are an important source of human pleasure and the secret ingredient of fun
+
+
+Lens of expected value: To use this lens, think about the chance of different events occurring in your game and what those mean to your player. Ask yourself these questions: 
+* What is the actual chance of a certain event occurring? 
+* What is the perceived chance? 
+* What value does the outcome of that event have? Can the value be quantified? Are there intangible aspects of value that I am not considering? 
+* Each action a player can take has a different expected value when I add up all the possible outcomes. Am I happy with these values? Do they give the player interesting choices? Are they too rewarding, or too punishing
+Lens of chance: 
+* To use this lens, focus on the parts of your game that involve randomness and risk, keeping in mind that those two things are not the same. Ask yourself these questions: 
+* What in my game is truly random? What parts just feel random? 
+* Does the randomness give the players positive feelings of excitement and challenge, or does it give them negative feelings of hopelessness and lack of control? 
+* Would changing my probability distribution curves improve my game? 
+* Do players have the opportunity to take interesting risks in the game? 
+* What is the relationship between chance and skill in my game? Are there ways I can make random elements feel more like the exercise of a skill? Are there ways I can make exercising skills feel more like risk taking
+
+
+Game mechanics must be in balance 
+* the business of balancing a game seems quite mysterious
+* balancing a game is nothing more than adjusting the elements of the game until they deliver the experience you want
+* Part of what makes game balancing so difficult is that no two games are alike and every game has many different factors that need to be in balance
+
+
+12 most common types of game balance 
+
+
+fairness 
+* One quality that players universally seek in games is fairness
+* Players want to feel that the forces working against them do not have an advantage that will make them impossible to defeat
+* One of the simplest ways to ensure this is to make your game symmetrical, that is, to give equal resources and powers to all players
+* If you want to put players in direct competition with each other and you expect them to have roughly equal levels of skill, symmetrical games are a great choice
+* Also possible to give opponents different resources and abilities
+* To simulate a real-world situation, a symmetrical game does not make sense, since the real-world conflict was not symmetrical
+* To give players another way to explore the game space, Players often enjoy exploring the possibilities of playing the same game with different powers and resources
+* Personalization, Different players bring different skills to a game—if you give the players a choice of powers and resources that best match their own skills, it makes them feel powerful—they have been able to shape the game to emphasize the way they like to play
+* your opponents have radically different skill levels
+* create interesting situations, Pitting asymmetrical forces against each other can often be interesting and thought provoking for the players, since it is not always obvious what the right strategies will be to win the game
+
+
+Lens of fairness: To use the Lens of Fairness, think carefully about the game from each player’s point of view. 
+* Should my game be symmetrical? Why? 
+* Should my game be asymmetrical? Why? 
+* Which is more important: that my game is a reliable measure of who has the most skill or that it provide an interesting challenge to all players? 
+* If I want players of different skill levels to play together, what means will I use to make the game interesting and challenging for everyone?
+Challenge vs success 
+* keeping the player in the flow channel is desirable
+* If play is too challenging, the player becomes frustrated
+* if the player succeeds too easily, they can become bored
+* Keeping the player on the middle path means keeping the experiences of challenge and success in proper balance
+
+
+Increase difficulty with each success: 
+* each level is harder than the last
+* Players build their skill until they can complete a level, only to be presented with one that challenges them yet again. 
+Let players get through easy parts fast: 
+* allowing skilled players to finish a level quickly if they can easily master it
+* quickly getting to a challenge that is more interesting to them
+* less skilled players will be challenged by the early levels
+
+
+Create layers of challenge
+* Giver a grade or some number of stars at end of each level or mission 
+* If you get a “D” or “F,” you must repeat the level, but if you get a “C” or better, you can continue
+* creates a situation with a lot of flexibility in how you can play it
+* Novice players are thrilled to get a “C” and unlock the next level, hey may set themselves a new challenge—to earn an “A” (or even “A+”!) on earlier levels
+Let players choose the difficulty 
+* Let players choose to play on easy, medium and hard
+* some games even let you change the difficulty-level midgame
+* players can quickly find the appropriate challenge level for their skill level
+* you have to create and balance multiple versions of your game
+Playetst with a variety of players 
+* Wise designers playtest with a mix of skilled and novice players, to be sure that their game is fun at first, fun after a while, and fun much, much later
+Give the losers a break 
+* Give proper items depending on place, like mario kart
+Lens of challenge
+
+
+DESIGN THEORY 2
+
+
+The Game is made for a player 
+* You must know what your audience will and will not like, and you must know it even better than they do. 
+* You would think that finding out what people want would be easy, but it isn’t, because in many cases, they don’t really know. 
+* They might think they know, but often there is a big difference between what they think they want and what it is they will actually enjoy. 
+* the key here is a kind of listening. You must learn to listen to your players, thoroughly and deeply. 
+* You must become intimate with their thoughts, their emotions, their fears, and their desires.project Yourself these will be so secret that your players themselves are not even consciously aware of them
+Project yourself 
+* So how can you do this kind of deep listening? 
+* One of the best ways is to use your power of empathy to put yourself into their place 
+* things look different at different eye heights, and the perspective of children at Disneyland is just as important as, if not more than, the perspective of adults 
+* You must actively try to become them, trying to see what they see, hear what they hear, and think what they think
+* very easy to get stuck in the high and mighty mind of the designer and forget to project yourself into the mind of the player—it is something that requires constant attention and vigilance, but you can do it if you try 
+* If you are creating a game for a target audience that you used to be part of (e.g., a woman creating a game for teen girls), you have an advantage—you can get in touch with your memories about how you thought, what you liked, and how things felt when you were that age 
+* People are surprisingly good at forgetting what things were really like when they were younger. As a designer, you can’t afford to forget. 
+* Work hard to bring back your old memories, and make them vivid and strong again. Keep these old memories well oiled—they are some of your most valuable tools 
+* But what if you are making something for an audience that you have never been a part of, and perhaps never will be (e.g., a young man creating a game for middleaged women)? Then you must use a different tactic—you must think hard about people you have known who are in the target demographic and imagine what it is like to be them 
+* you should spend time with your target audience, talking with them, observing them, and imagining what it is like to be them 
+* if you can mentally become any type of player, you can greatly expand the audience for your games, because your designs will be able to include people that other designers have ignored. 
+Demograhics 
+* We know that all individuals are each unique, but when creating something meant to be enjoyed by vast numbers of people, we have to consider ways that groups of people are the same. 
+* We call these groups demographics, or sometimes market segments. There is no “official” means of establishing these groups—different professions have different reasons for grouping them differently 
+* For game designers, the two most significant demographic variables are age and gender. We all play differently as we get older, and, historically, males and females have played differently than one another at all ages 
+ 
+0–3, infant/toddler: 
+*  very interested in toys
+* complexity and problem solving involved in games is too much for them. 
+* Abstract interfaces (like a gamepad) are generally beyond them, but direct interfaces (like a touch screen), they find fascinating 
+ 
+4–6, preschooler: 
+* show their first interest in games. 
+* The games are very simple and played with parents more often than with one another, because the parents know how to bend the rules to keep the games enjoyable and interesting. 
+7–9, kids: 
+* called the “age of reason.” 
+* children have entered school, are generally able to read, and are able to think things through and solve hard problems.
+* they become very interested in gameplaying.
+* the age where children start making their own decisions about what kinds of toys and games they like and dislike, no longer just accepting whatever their parents choose for them 
+
+
+10–13, preteen or “tween”: 
+* are going through a period of tremendous neurological growth and are suddenly able to think about things more deeply and with more nuance than they were a few years back.
+* sometimes called the “age of obsession,” because children of this age start to get quite passionate about their interests. 
+* For boys especially, these interests are often games. 
+ 
+13–18, teen: 
+* we often see a significant divergence between male and female interests. 
+* very interested in experimenting with new kinds of experiences, and some of those can happen through gameplay 
+ 
+18–24, young adult: 
+* play less than children do. 
+* Most adults do continue to play, but at this point, with their teenage experiments out of the way
+* they have established certain tastes about the kind of play and entertainment they enjoy
+* Young adults usually have both time and money on their hands, which makes them big consumers of games 
+ 
+25–35, twenties and thirties: 
+* time starts to become more precious. This is the age of “peak family formation.” 
+* As the responsibilities of adulthood start to add up, most adults in this age bracket are only casual gameplayers, playing games as an occasional amusement or playing games with their young children. On the other hand, “hardcore gamers” in this age bracket—that is, people for whom playing games is their primary hobby—are an important target market because they purchase a lot of games and are often quite vocal about what they do and don’t like, potentially influencing the buying decisions of their social network. 
+ 
+35–50, thirties and forties: 
+* most adults in this bracket are very caught up in career and family  responsibilities and are only casual gameplayers.
+* As their children become older, adults in this age group are often the ones who make decisions about expensive game purchases, and when possible, they look for gameplaying opportunities the whole family can enjoy together. 
+ 
+50+, fifties and up: 
+* adults in this age bracket suddenly have a lot of time on their hands—their children have moved out, and they will soon be facing retirement
+* Some return to games they enjoyed when they were younger, and others, looking for a change, turn to new game experiences
+* Adults in this age group are particularly interested in game experiences that have a strong social component, such as golf, tennis, bridge, and online multiplayer games. 
+* Online social games, in particular, have been very successful with this age group. Their eyes and hands aren’t what they used to be, and so games that involve tiny screens or complex fine motor control can be frustrating to them. 
+ 
+* There are other ways to break up groups by age, but these nine groups are how the game industry usually does it, because they reflect changes in play patterns. It is interesting to consider the transitional experiences that separate each group from the next 
+* Most of the younger groups are separated by periods of mental development, while the older groups are primarily separated by family transitions 
+* It is an outdated stereotype to say that certain types of play are “inherently male” or “inherently female,” especially in an age when the very nature of gender has been called into question 
+* especially in an age when the very nature of gender has been called into question. No generalization about gender can fit every individual. Despite this, when we look at large groups, some gender-based patterns of play are clear; there are certain types of play that females engage in more than males, and vice versa 
+ 
+Sterotypes about what males like to see in games 
+
+
+1. Mastery: 
+* Males enjoy mastering things. It doesn’t have to be something important or useful—it only has to be challenging. 
+* Females tend to be more interested in mastery when it has a meaningful purpose.  
+
+
+2. Competition: 
+* Males enjoy competing against others to prove that they are the best.
+*  For females, the bad feelings that can come from losing the game often outweigh the positive feelings that come from winning.  
+3. Destruction: 
+* Males like destroying things. A lot. Often, when young boys play with blocks, the most exciting part for them is not the building, but knocking down the tower once it is built. Videogames are a natural fit for this kind of gameplay, allowing for virtual destruction of a magnitude far greater than would be possible in the real world.  
+* 4. Spatial puzzles:
+* males generally have stronger skills of spatial reasoning than females.
+* puzzles that involve navigating 3D spaces are often quite intriguing to males, while they can sometimes prove frustrating for females. 
+
+
+ 5. Trial and error: 
+* Males tend to have a preference for learning things through trial and error.
+* makes it easier to design interfaces for them, since they actually sometimes prefer an interface that requires some experimentation to understand, which ties into the pleasure of mastery. 
+ 
+Sterotypes about what females like to see in games 
+ 
+1 Emotion: 
+* Females like experiences that explore the richness of human emotion. 
+* For males, emotion is an interesting component of an experience but seldom an end in itself. 
+
+
+2. Real world: 
+* Females tend to prefer entertainment that connects meaningfully to the real world. 
+* If you watch young girls and young boys play, girls will more frequently play games that are strongly connected to the real world (playing “house,” pretending to be a veterinarian, playing dress-up, etc.)
+* boys will more frequently take on the role of fantasy characters. 
+* This trend continues through adulthood—when things are connected to the real world in a meaningful way, women often become more interested. 
+* Sometimes this is through the content and sometimes it is through the social aspects of the games. 
+* The popularity of online social games with female players seems to be connected to the centrality of the friends’ list as a game feature. Playing with virtual players is “just pretend,” but playing with real players can build real relationships
+
+
+3. Nurturing:
+* females enjoy nurturing. 
+* It is not uncommon to see girls sacrifice a winning position in a competitive game to help a weaker player, partly because the relationships and feelings of the players are more important than the game, but partly out of the joy of nurturing 
+
+
+4. Dialog and verbal puzzles: 
+* often said that what females lack in spatial skills they make up for in increased verbal skills
+* Women purchase many more books than men do, and the audience for crossword puzzles is mostly women.
+
+
+5. Learning by example: 
+* females tend to prefer learning by example. 
+* have a strong appreciation for clear tutorials that lead you carefully, step-bystep, so that when it is time to attempt a task, the player knows what she is supposed to do 
+* Looking closely at your game while thinking about gender stereotypes can sometimes lead to fascinating discoveries
+
+
+the introduction of digital technology has done a great deal to make clear gender differences in gameplay. In the past, most games were very social, played in the real world, with real people. The introduction of affordable computers gave us a type of game that  
+* Had all social aspects removed  
+* Had most verbal and emotional aspects removed  
+* Was largely divorced from the real world  
+* Was generally hard to learn  
+* And offered the possibility for unlimited virtual destruction 
+Whether you consider age, gender, or other factors, the important thing is that you put yourself in the perspective of the player, so you can carefully consider what will make the game the most fun for them. 
+Lense of the player: stop thinking about your game, and start thinking about your player 
+* In general, what do they like?  
+* What don’t they like? Why?  
+* What do they expect to see in a game?  
+* If I were in their place, what would I want to see in a game?  
+* What would they like or dislike about my game in particular? 
+ 
+Psychographs  
+* age and gender aren’t the only ways to group potential players 
+* Demographics generally refer to external factors (age, gender, income, ethnicity, etc.), and those can sometimes be a useful way to group your audience
+the introduction of digital technology has done a great deal to make clear gender differences in gameplay. In the past, most games were very social, played in the real world, with real people. The introduction of affordable computers gave us a type of game that  
+* Had all social aspects removed  
+* Had most verbal and emotional aspects removed  
+* Was largely divorced from the real world  
+* Was generally hard to learn  
+* And offered the possibility for unlimited virtual destruction 
+Whether you consider age, gender, or other factors, the important thing is that you put yourself in the perspective of the player, so you can carefully consider what will make the game the most fun for them. 
+Lense of the player: stop thinking about your game, and start thinking about your player 
+* In general, what do they like?  
+* What don’t they like? Why?  
+* What do they expect to see in a game?  
+* If I were in their place, what would I want to see in a game?  
+* What would they like or dislike about my game in particular?  
+
+
+* other kinds of psychographics aren’t so tied to concrete activities
+* they have more to do with what a person enjoys the most—the kind of pleasures they look for when participating in a game activity or, really, any activity
+* the motivation for many human actions can be traced back to some kind of pleasure seeking
+
+
+LeBlanc’s Taxonomy of Game Pleasures
+Sensation:  tied to your visual, auditory, tactile, taste and olfactory senses
+Fantasy: imagining yourself as something you are not
+Narrative: dramatic unfolding of a sequence of events
+Challenge: problem solving
+Fellowship: friendship, cooperation, and community 
+Discovery: anytime you find something new
+Expression: expressing yourself in terms of character modification or level creation 
+Submission: immersion and suspension od disbelief 
+
+
+Bartles taxonomy of players
+
+
+* Achievers want to achieve the goals of the game. Their primary pleasure is challenge.
+* Explorers want to get to know the breadth of the game. Their primary pleasure is discovery.
+* Socializers are interested in relationships with other people. They primarily seek the pleasures of fellowship.
+* Killers are interested in competing with and defeating others
+
+
+  
+
+
+
+Other pleasures
+
+
+Anticipation: the pleasure of knowing something will happen
+Delight in anothers misfortune: when the unjust get their comeuppance 
+Gift giving: a unique pleasure when you make someone else happy through the surprise of a gift
+humor: the funnies make us laugh
+Possibility: mostly about choice 
+Pride in an accomplishment: finishing games. Boss battles, memorizing combos
+Purification: clear the level
+Surprise: ….what?
+Thrill: fear - death = fun
+Trumph over adversity: every classic mega game
+Wonder: awe and amazement
+
+
+The lens of pleasure: to use this lens, think about the kinds of pleasure your game does and does not provide Ask yourself these questions: 
+* What pleasures does your game give to players? Can these be improved? 
+* What pleasures are missing from your experience? Why? Can they be added?
+
+
+The experience is in the players mind
+* Experience happens in the brain 
+
+
+Modeling 
+* the only way our minds are able to get by at all is by simplifying reality so that we can make some sense of it
+* our minds do not deal with reality itself, but instead with models of reality
+* consciousness is an illusion that our internal experiences are reality, when in truth they are imperfect simulations of something we may never truly understand.
+* we care a lot about these mental models because games, with their simple rules, they are predigested models that we can easily absorb and manipulate
+
+
+Focus 
+* crucial technique our brains use to make sense of the world is the ability to focus its attention selectively, ignoring some things and devoting more mental power to others
+* When we create games, our goal is to create an experience interesting enough that it holds the player’s focus as long and as intensely as possible
+* When something captures our complete attention and imagination for a long period, we enter an interesting mental state
+* This state of sustained focus, pleasure, and enjoyment is referred to as “flow”
+
+
+some of the key components necessary to create an activity that puts a player into a flow state
+
+
+ Clear goals: When our goals are clear, we are able to more easily stay focused on 
+our task. When goals are unclear, we are not “into” our task, for we aren’t at all 
+certain whether our current actions are useful.
+
+
+No distractions: Distractions steal focus from our task. No focus, no flow. This 
+means engaging both mind and hands. Menial labor with no thought makes the 
+mind wander; just sitting and thinking can make the hands fidget. These “itchy” 
+feelings are each a kind of distraction.
+
+
+Direct feedback: If every time we take an action, we have to wait before we 
+know what effect the action caused, we will quickly become distracted and lose 
+focus on our task. When feedback is immediate, we can easily stay focused. 
+We’ll talk much more about feedback in Chapter 15: Interface.
+
+
+Continuously challenging: Human beings love a challenge. But it must be a 
+challenge we think we can achieve. If we start to think we can’t achieve it, we 
+feel frustrated, and our minds start seeking an activity more likely to be rewarding. On the other hand, if the challenge is too easy, we feel bored, and again, our 
+minds start seeking more rewarding activities
+
+
+low activities must manage to stay in the narrow margin of challenge that lies 
+between boredom and frustration, for both of these unpleasant extremes cause our 
+mind to change its focus to a new activity
+
+
+  
+
+
+
+  
+
+
+
+  
+
+
+
+
+
+The lens of flow: To use this lens, consider what is holding your player’s focus. Ask yourself these questions: 
+*  Does my game have clear goals? If not, how can I fix that? 
+* Are the goals of the player the same goals I intended? 
+* Are there parts of the game that distract players to the point they forget their goal? If so, can these distractions be reduced or tied into the game goals? 
+* Does my game provide a steady stream of nottoo-easy, not-too-hard challenges, taking into account the fact that the player’s skills may be gradually improving? 
+* Are the player’s skills improving at the rate I had hoped? If no
+
+
+* Flow is a very hard thing to test for
+* You won’t see it in ten minutes of gameplay. You must observe players for longer periods
+* When observing a player, flow can be easy to miss—you must learn to recognize it
+* Players in flow playing solo games will often be quiet, possibly muttering to themselves
+*  Players in flow during multiplayer games will sometimes communicate with one another enthusiastically, constantly focused on the game
+
+
+Empathy 
+* we have an amazing ability to project ourselves into the place of others
+* we think the other person’s thoughts and feel their feelings, to the best of our ability
+* as game designers, we will make use of empathy in the same ways that novelists, graphic artists, and filmmakers do, but we also have our own set of new empathic interactions
+* Games are about problem solving, and empathic projection is a useful method of problem solving
+* If I can imagine myself in the place of another, I can make better decisions about what that person can do to solve a particular problem
+Imagination
+* puts the player into the game by putting the game into the player
+
+
+
+
+Some games are played with other players 
+* Man is a social animal, humans generally avoid being alone 
+* In most cases we dont like doing things alone 
+* The majority of all games created are designed to be played with other players or against other players
+* Before computers solo games were rare 
+
+
+Why we play with others 
+* Playing with others is natural 
+* Games are enached by the presence of others but not mandatory 
+* What is it that we skee when playing games 
+
+
+Competition: 
+* When we think of multiplayer games, competition is usually the 
+first thing that comes to mind. 
+* It simultaneously fills several kinds of needs and desires for us.
+* Allows for a balanced game on a level playing field 
+* Provides us with a worthy opponent 
+* Gives us an interesting problem to solve 
+* Fulfills a deep inner need to determine our skill level relative to someone else in our social circle 
+* Allows for games involving complex strategy, choices, and psychology, all possible because of the intelligence and skill of our human opponent 
+
+
+Collaboration: 
+* The opposite of competition, this is the “other way” we like to 
+play together. Collaborative games are enjoyable to us because they
+* Allow us to partake in game actions and employ game strategies that are impossible with just one person 
+* Let us enjoy the deep pleasures that come from group problem solving and being part of a successful team, And while some people think of collaborative games as experimental, that is only the case when players are collaborating against an automated opponent.
+* Most collaborative games follow the mold of team sports, which allow all the pleasures of collaboration and the pleasures of competition at the same time.
+
+
+Meeting up: 
+* We like to get together with our friends, but it can be socially awkward to just show up and be forced to make conversation on a regular basis. 
+* Games, like food, give us a convenient reason to be together, give us something to share, and give us something to focus on that won’t make anyone in the room uncomfortable. 
+* Games are a great way for kids and parents to spend time with each other, and many are the friendships held together 
+
+
+Exploring our friends:
+* games let us do something else that we can’t do so easily with just conversation
+* explore the minds and souls of our friends. In a conversation, we hear a friend’s opinions about likes and dislikes and their stories about the way 
+they and other people have behaved
+* these things are all filtered through the friend’s conception of what they think we want to hear. 
+* When we play a game we get a glimpse of something more like the unvarnished 
+Truth
+* We get to see them solving problems
+* We get to see them making tough decisions under stress. 
+* We get to see them make decisions about when to cut someone a break and when to stab them in the back. 
+* We learn who we can trust and who we can’t. 
+
+
+Exploring ourselves: 
+* games let us test the limits of our abilities, finding 
+out what we enjoy and learning what we want to improve at
+* when we are 
+with others, we get to explore how we will behave in complex social situations, 
+under stress. 
+* Do we have a tendency to let our friends win when they have a 
+bad day, or to crush them unconditionally? Who do we prefer to team with, 
+and why? How do we feel when publicly defeated, and how do we cope with 
+that? How do our strategies differ from others, and why? Who do we choose to 
+imitate, or find ourselves imitating? 
+* are explored when we play games with other people. These are not trivial things—
+they are important things, close to the heart of how we see ourselves and how 
+we relate to other people.
+* There can be a good social connection just watching someone else play a game. 
+For that reason, it becomes very important to think about how you design for spectators. 
+* In a venue like the hearth (living room), this is particularly important, because 
+there are likely to be others around who would rather be watching television. 
+* If you can make your game such a compelling spectacle that they’d rather watch it
+laughing, kibbutzing, and helping the players solve hard problems
+
+
+Lens of speciation: For thousands of years, man has loved to sit and watch others play games—but only if the games are worth watching. To make your game spectator worthy, ask yourself these questions
+
+
+*  Is my game interesting to watch? Why or why not? 
+* How can I make it more interesting to watch?
+
+
+
+
+* A new risk appears with multiplayer games that is less important when someone plays alone: cheating
+* Players who cheat in isolation are only cheating themselves
+* But cheating amongst or against other players is meaningful breach of social contract, If the cheater is caught, others will shame them
+* This can harm your game in two different ways
+* if your game has loopholes in it that encourage players to cheat, it creates stress for the players, who need to keep an eye out for cheating behavior
+* cheatable games suffer a much worse problem as well: if players realize that cheating is possible, and they can’t tell if other players are cheating or not, it makes the non-cheaters want to stop playing
+Lens of cheatablity: No one wants to worry about being beaten by a cheater—it makes you feel like a chump. To make sure your players trust your game, ask yourself these questions:
+
+
+* Can players cheat at my game? How? 
+*  If players can cheat, will anyone notice?  
+* Do players trust my game?
+
+
+you must employ multiplayer games carefully and wisely, because it can be a lot of work and hard to control
+
+
+safe to assume that a multiplayer online game will take four times the effort and expense to create compared to a similar single-player game
+
+
+multiplayer games are much more difficult to debug and to balance
+
+
+
+
+Other players sometimes form communities 
+* Games are something that inspires real passion in players, frequently, communities arise around games
+* can be communities of fans, as in professional sports, or communities of players
+* These communities can be very powerful forces, extending the life of a game by 
+* many years by constantly drawing in new players
+
+
+What is a community 
+
+
+1. Membership: Something distinct makes it clear you are part of this group.
+2. Influence: Being part of this group gives you power over something.
+3. Integration and fulfillment of needs: Being part of this group does something 
+for you.
+4. Shared emotional connection: You have some guarantee of sharing emotions 
+about certain events with others in the group
+
+
+A group of people with a shared interest, purpose, or goal who get to know each other better over time
+
+
+Why as game designers do you want communities to form around your game?
+
+
+1. Being part of a community fills a social need: People need to feel a part of 
+something, Needs, shows us, social needs are very powerful.
+2. Longer “period of contagion”: The personal recommendation of a friend is the 
+most influential factor when purchasing a game. 
+* Players who become part of a game community are likely to “stay contagious” for a long time, as the game will become a deeper part of their lives, giving them a lot to talk about. 
+
+
+
+
+3. More hours of play: 
+- It is often the case that players start to play a game for 
+the game’s pleasures but stay with it over a long period for the community’s 
+pleasures. 
+* A game that has the ability to engender community will get played for a long, long time, no matter how lacking its other qualities might be.
+*  If the financial success of your game relies on subscription renewals, selling sequels, or microtransactions, the fact that community makes people want to play it longer becomes very important.
+
+
+Ten tips for stronger communities 
+
+
+Community is complex and involves many different interrelated psychological phenomena, but there are some basic things you can do to help foster a community around your game
+
+
+Foster friendships 
+
+
+The idea of online friendships seems simple. Just like real friendships, but online, right? But what do we really understand about the nature of friendship? And how can we translate it to a game environment? To have a meaningful online relationship with another person requires three things:
+
+
+1. The ability to talk: 
+* a surprising number of online games have been created that offer players no ability to talk to each other
+* the designers hoping that some kind of nonverbal communication would happen through play and that would be enough.
+* For a community to form, players must be able to speak to each other freely. 
+
+
+2. Someone worth talking to: 
+* cannot assume that all your players will want to talk to each other, any more than you can assume that strangers on a bus will mingle. 
+* The explosion of social media has shown us that most people are mainly interested in connecting with their friends and celebrities. 
+* must have a clear understanding of who your players want to talk to and why.
+* varies a great deal depending on your demographics. 
+* Adults often want to talk to others who can relate to their problems.
+*  Teenagers often seek members of another gender or other people more interesting than their regular friends. 
+* children generally have little interest in strangers, they would prefer to socialize with friends from real life
+* understanding these age-based generalizations is not enough—you must understand the types of socialization that are specific to your game. Do your players seek competitors? Collaborators? Assistants? Quick chats or long-term relationships? 
+* If players can’t find the people they are interested in talking to, they will quickly drift away. 
+3. Something worth talking about: 
+* Games that foster community give the players a steady stream of things to talk about. 
+* can come from the gameplay itself (games like Words with Friends and Draw Something have different content every time you play), depth of strategy inherent in the game (e.g., strategy discussion is a prime topic for chess communities) or from events, or rule changes that are introduced over time (typical topics of conversation in Massively Multiplayer Online games [MMOs] and Collectible Card Games [CCGs]). 
+* common to hear people say that “good online games are more community than game,” but this isn’t really true. 
+* Good online games must have a solid balance of community and game. 
+* If the game isn’t interesting enough, the community doesn’t have anything to talk about. 
+* f the community support for your game isn’t good enough, players will enjoy the game, but eventually wander off. 
+* Plenty of games are designed to just be played with your friends. But what about making new friends in your game? Friendships have three distinct phases, and your game must also have good support for each of them if you want friendships to blossom and survive
+
+
+Friendship phase 1: Breaking the ice. 
+* Before two people can become friends, they first must meet. 
+* Meeting people for the first time is awkward. Ideally, your game will have a way that people can easily find the kind of people they might like to be friends with and then have some way to engage with them that is low in social pressure but allows them to express themselves a little, so others can see what they are like. 
+
+
+Friendship phase 2: Becoming friends. 
+* The moment when two people “become friends” is mysterious and subtle—but it almost always involves conversation about something both of them care about.
+* in games, that conversation is often about a gameplay experience the two friends just shared. 
+* Giving players opportunities to chat with each other after an intense play experience is one of the best ways to encourage the formation of friendships. 
+* can be a good idea to create a friend-making ritual in your game, such as inviting another player to be on your “friends list.” 
+
+
+Friendship phase 3: Staying friends. 
+* Meeting people and making friends is one thing, staying friends is another.
+*  To stay friends with someone, you must be able to find them again to continue your friendship.
+*  mostly up to the friends, but in online games, you need to give people some way they can find each other again.
+* might be through friends lists, or guilds, or even through memorable nicknames.  
+* you have to do something, or your game misses out on the power of friendship, which is the glue that holds communities together. 
+
+
+keep in mind that different people are interested in different kinds of friendships. Adults are often most interested in making friends with similar interests, while kids are more interested in playing games with their real-life friends. Friendship is so crucial to community, and to gameplaying in general
+
+
+Lens of friendship: People love to play games with friends. To make sure your game has the right qualities to let people make and keep friendships, ask yourself these questions:
+
+
+* What kind of friendships are my players looking for? 
+* How do my players break the ice? 
+* Do my players have enough chance to talk to each other? Do they have enough to talk about?, When is the moment they become friends?, What tools do I give the players to maintain their friendships?
+
+
+Put conflict at the heart 
+
+
+* conflict is at the heart of all communities. 
+* conflict is a natural part of games.
+* not all game conflict results in community.
+* conflict in your game must either spur players to demonstrate that they are better than everyone else (conflict against other players) or be the kind of conflict that is more likely to be resolved when people work together (conflict against the game). 
+* Many games build community on both of these kinds of conflict
+
+
+Use architecture to shape your community 
+
+
+* people don’t really know their neighbors. In others, everyone knows everyone else, and the whole neighborhood has a sense of community.
+* It is usually a side effect of how the neighborhoods are designed. 
+* Neighborhoods that are designed to be walkable (and with meaningful destinations to walk to) give neighbors a chance to communicate.
+* neighborhoods with a lot of dead-end streets tend not to have a lot of through traffic, so that when you see someone passing by
+* Online worlds can support these same design features, partly through buddy lists and guilds, but partly by creating places where people are likely to see each other again and again and still have time to talk. 
+
+
+Create community property 
+
+
+* When you can create things in your game that are not just owned by an individual player but by several, it can really encourage players to band together. 
+* no individual player can afford to buy a ship in your game, but a group could team up and own it together. 
+
+
+Let players express themselves 
+
+
+* Self-expression is very important in any multiplayer game. 
+* You are, after all, creating a fantasy world where players can be whatever they would like to: why not let them express that? Rich, expressive avatar creation systems are much beloved by players of online games. 
+* So are systems of conversation that allow players to convey emotion or choose colors and styles for their text to display. 
+* The purchase of “vanity items” in online games is a key part of monetization for games ranging from League of Legends to Color Switch. 
+* Player expression is not limited to online games—consider the expressive power in charades or Pictionary. 
+* Self-expression is extremely important but easily overlooked. Keep this lens so you remember to let players express themselves
+Lens of expression 
+
+
+When players get a chance to express themselves, it makes them feel alive, proud, important, and connected. To use this lens, ask yourself these questions:
+
+
+* How am I letting players express themselves? 
+* What ways am I forgetting? 
+* Are players proud of their identity? Why or why not?
+
+
+Support three levels 
+
+
+mportant to realize that when designing a game community, you are really designing three separate games for players at different levels of experience. Some might argue there are even more, but there are at the minimum these three
+
+
+Level 1: The newbie. 
+* Players who are new to game communities are often overwhelmed. 
+* They aren’t yet challenged by the game itself, they are challenged just by learning to play the game. 
+* learning to play the game is the game for them, and so you are obligated to design that learning process so that it is as rewarding as possible. 
+* If you don’t, newbies will give up on the game before they really get into it, and you will significantly limit your audience. 
+* One of the best ways to make newbies feel rewarded and connected to the game is to create situations where they get to interact meaningfully with more experienced players.
+* Some experienced players like greeting and teaching newbies for their own enjoyment, but if not enough of your players tend to do this, then why not give in-game rewards for helping newbies?
+
+
+Level 2: The player. 
+* The player is past the newbie stage. 
+* They completely understand the game and are immersed in the game activities and in figuring out how to master them.
+*  Most of the design that goes into the game is aimed at this group.
+
+
+Level 3: The elder. 
+* there comes a point where the game itself is no longer interesting. 
+* Most of the secrets have been discovered, and many of the game pleasures have been squeezed dry. 
+* When players reach this state, they tend to leave, seeking a new game with new secrets.
+*  Some games, however, manage to retain these elder players by giving them an entirely different game to play one that befits their level of skill, expertise, and devotion to the game. 
+* There is tremendous benefit to keeping elders around, since they are often some of the most vocal advertisers of your game and, further, they are experts about your game, often able to teach you how to improve it. 
+
+
+Some typical “elder games” include the following: 
+* A more difficult game: Often, particularly in MMOs, the middle game is about gradual, clear progression toward a goal: when the goal is reached, then what? 
+* Sometimes a different kind of game is presented to the higherlevel players, which is much more difficult—so difficult, in fact, that no one can ever consistently master it. 
+* Other games change from pitting you against the computer to pitting you against the other players. 
+* There are many ways to add a more difficult game—but you are always left with the question: what to do when elders get tired of it?
+
+
+Governance privileges: 
+* Some games give the elder players special levels of responsibility, such as deciding the rules of the game. 
+* Many Multi-User Dungeons (MUDs) gave elder players these kinds of powers. a great way to keep the elders involved and make them feel special
+The joy of creation: 
+* Players who truly love a game often fantasize about extending it in new ways, particularly when they have grown tired of it. 
+* Games like The Sims and Skyrim have built strong communities by letting players create and share their own content. 
+* Many elders get to the point where they play the games only occasionally but spend most of their time creating new content.
+* the new game becomes one of status: can they become the most popular and respected designer?
+
+
+Guild management: 
+* When players form groups, these groups often benefit from having organizers. 
+* Elders will often do this on their own, but if you give them a strong set of tools to help run their guild, the activity will be all the more appealing to them.
+
+
+A chance to teach: 
+* in real-world activities enjoy a chance to teach, so do game experts. 
+* If you can give them both permission and encouragement to do so, some of them will enjoy serving as ambassadors to the newbies and guides to the regular players. 
+* Some online games, such as Entropia Universe, give elders who would like to teach special status noting them as experts and teachers, which is something they are generally very proud of.
+
+
+These three levels might sound like a lot of work, but really, they can often be implemented quite simply.
+
+
+Level 1—ages 2–5 (newbies): 
+* These kids hunt for eggs in a separate area from the older kids, so there is no concern about having to compete with them. 
+* All the eggs are placed in plain sight, not really hidden at all. 
+* For these preschoolers, just navigating the space, spotting the eggs, and picking them up are plenty of challenge. 
+* There are plenty of eggs and no pushy big kids to spoil the fun. 
+
+
+Level 2—ages 6–9 (players): 
+* These kids enjoy a standard egg hunt over a large area, with eggs hidden in places that are sometimes tricky. 
+* There are enough eggs for everyone, but kids still need to move fast and look carefully
+
+
+ Level 3—ages 10–13 (elders): 
+* These older children are given the task of hiding the eggs. 
+* They are very proud of this job, they find it challenging and fun, feel honored with the responsibility, and enjoy the status it gives them, compared to the younger kids. 
+* They also often enjoy giving hints to the kids who are having trouble.
+Force players to depend on each other 
+
+
+* Conflict alone cannot create community. 
+* The conflict situation must be one where getting aid from other players will help resolve the conflict. 
+* Most videogame designers have been conditioned to create games that are playable by a single player alone, even in a multiplayer game. 
+* The logic is something like “We don’t want to exclude players who would prefer to play alone.” And this is a valid concern, But when you create a game that can be mastered when playing solo, you diminish the value of community. 
+* If, on the other hand, you create situations where players must communicate and interact to succeed, you give community real value. 
+* often involves the counterintuitive step of taking something away from the players. The mobile game Spaceteam exemplifies this—each player has information vital to the mission that only others can act on—which guarantees constant communication.
+
+
+ Community Tip #8: Manage Your Community 
+* If you believe that community is important to your game experience, you need to do more than just cross your fingers and hope it will happen. 
+* Now that games can be updated based on player feedback on an ongoing basis, players expect it. 
+* You need to create appropriate tools and systems to let your players communicate and organize, and you may need to have professional community managers who build and maintain a strong feedback loop between designers and players. Think of these managers like gardeners. 
+* They don’t create the communities directly, but they plant 453 Ten Tips for Strong Communities the seeds for them and encourage them to grow by observing and catering to their specific needs. 
+* This is a role of nurturing, listening, and encouraging. Amy Jo Kim’s aforementioned book, Community Building on the Web, has some excellent advice about how to carefully manage online communities by striking the right balance between a “hands-on” and “hands-off” approach. 
+
+
+Community Tip #9: Obligation to Others Is Powerful 
+* In parts of aboriginal Australia, it is considered rude to give a gift unexpectedly, because doing so creates a burden to give a return gift. 
+*  may be a cultural extreme, but obligation to others is something deeply felt in all cultures. 
+* If you can create situations where players can make promises to each other (“Let’s meet up at 10 p.m. Wednesday to fight some trolls”) or owe each other favors (“That healing spell saved my life! I owe you one!”), players will take them seriously. 
+* Many World of Warcraft players report that obligation to their guild is one of the strongest forces in getting them to play on a regular basis. 
+* This is partly because they want to enjoy high status in the guild, but often there is another reason—avoiding low status. 
+* Gifting was Carefully designed systems of playerto-player commitment are an excellent way to get players to play your game on a regular basis and to help build strong community. 
+
+
+Community Tip #10: Create Community Events 
+* Almost all successful communities are anchored by regular events. 
+* In the real world, these can be meetings, parties, competitions, practice sessions, or awards ceremonies.
+* in the virtual world, it’s pretty much the same.
+*  Events serve many purposes for a community: They give players something to look forward to.  They create a shared experience, which makes players feel more connected to their community. They punctuate time, giving players something to remember.  They are a guarantee of an opportunity to connect with others. The knowledge that events are frequent makes players want to keep checking back to find out about which events are coming up. 
+* Players will often create their own events, but why not create some of your own? With an online game, it can be as simple as creating a simple goal for players and sending a mass email
+
+
+Lens of community: To make sure your game fosters strong community, ask yourself these questions:
+
+
+* What conflict is at the heart of my community? 
+* How does architecture shape my community? 
+* Does my game support three levels of experience? 
+* Are there community events? 
+* Why do players need each other?
+
+
+The challenge of griefing 
+
+
+* Griefing is one issue that any community-based game, particularly an online game, has to deal with eventually. 
+* For some players, the game itself isn’t as enjoyable as teasing, tricking, and torturing the other players. 
+* What can a game designer do about griefing? 
+* Some games have created “antigriefing policies” that ban griefers from the game—this is one way to handle the problem, but it creates the ugly situation of having to police griefing and then having to maintain a “court of law” to decide which griefing was intentional abuse and which was just “fooling around.” 
+* A better idea is to avoid game systems that make griefing easy. 
+
+
+These are the systems that are easiest for griefers to exploit: 
+* Player vs. player combat: Some games, such as first-person shooters, make player vs. player (PvP) combat the heart of the game.
+*  But if you are making a game where PvP combat is not the core activity, you should think carefully about why you are supporting it. 
+* While it can be exciting, it can also make players feel constantly threatened and never safe. 
+
+
+A typical griefer trick in a game with no limits to make sure your game fosters strong community, ask yourself these questions: 
+* What conflict is at the heart of my community? 
+* How does architecture shape my community? 
+* Does my game support three levels of experience? 
+* Are there community events? 
+* Why do players need each other? You could argue that this is “just part of the game,” but generally the griefers aren’t doing it for advantage in the game—they are doing it just for the enjoyment of torturing another human being. 
+* Ultimately, this creates an environment where players are afraid to talk to strangers—and what kind of community does that leave you with? 
+* If you really feel that PvP combat is an important part of your game, you should consider ways to confine it to special areas or circumstances, which makes it difficult to use it as a griefing opportunity
+
+
+ Stealing: 
+* In many games, items give players a great deal of power. 
+* Any opportunity to rob others of this power is very attractive to griefers. 
+* This could be through pickpocketing or by “looting” a player after battling them. 
+* Being stolen from really makes a player feel violated, and as a result, griefers love doing it. 
+* Unless you are planning to make a game that is fun for griefers and frustrating for everyone else, you probably don’t want to support features that let players steal from each other. 
+* there are other kinds of stealing than just stealing items. Some games have a problem with “kill stealing.” 
+
+
+Trading: 
+* If you give players the opportunity to trade items, you set up the possibility of unfair trades. 
+* If players have total information about the items they will receive, it is difficult to use the system for griefing. 
+* But if there is any way to misrepresent items that you are trying to trade, griefers will pounce and use it as an opportunity to make unfair trades. 
+
+
+Obscenities: 
+* One thing griefers enjoy is using shocking and disturbing language in front of other players. 
+* If you set up filters for this kind of language, it will become a game for griefers to find ways around your filtering system, and they almost always can. 
+* The most successful systems for stopping this kind of griefing are the ones that use an automated filter combined with a system that lets players report rude behavior. 
+* Voice chat makes this a much harder problem, but with the rise of voice recognition, it’s starting to happen. 
+* Another good technique to limit obscene griefing, Keeping in mind that obscenities are a game to the griefer, you can take the fun out of the game by giving them no feedback about whether the obscenity filter worked or not. 
+* Simply let them see the obscenity on their side, and filter the message appropriately to the other players. 
+* They can still find ways to beat this system, but it is much more work and much less fun.
+
+
+Blocking the way: 
+* One of the simplest and most annoying griefing moves is to bar the way so that players can’t get where they are trying to go. 
+* Solutions to this problem range from making sure the collision system lets players slip past each other, to creating doorways wide enough that they cannot be blocked by a single player, to allowing players to push other players out of the way. In Toontown Online, we chose this last solution. 
+* But, even then, the griefers took advantage! 
+* Since players could push each other around, it became a popular prank to find an “abandoned avatar,” whose player had stepped away from the keyboard and push them slowly down the street and into a battle! 
+
+
+Loopholes: 
+* Possibly the griefer’s greatest joy is to find a loophole in a game system that lets them do something that they shouldn’t be able to do. 
+* If griefers can disconnect during a battle to deny another player a valuable treasure, they will do it. 
+* If they can occasionally crash the server by jumping up and down in a corner for two hours, they will do it. 
+* If they can arrange furniture in a public place to spell obscene words, they will do it. And definitely if they find a way to steal resources, they will do it. 
+* Anything they can do to vandalize or annoy will make them feel powerful and important, particularly if other players don’t know how to do it. 
+* You must be ever mindful of these loopholes and careful to remove them whenever they turn up.
+*  Dealing with problems like this is part of why making online multiplayer games is such an arduous process.
+
+
+The lens of griefing: To make sure griefing in your game is minimized, ask yourself these questions:
+* What systems in my game are easy to grief? 
+* How can I make my game boring to grief? 
+*  Am I ignoring any loopholes
+
+
+The future of game communities 
+* Game communities have been an important part of life on earth for centuries, mostly via sports teams, both professional and amateur. 
+* As we transition into the age of the Internet and social media, new kinds of game communities are becoming-important as well. 
+* In this new age, a person’s online identity becomes something important and intensely personal. 
+* Choosing an online handle and identity has become an important rite of passage for children and young teenagers. 
+* Most people who create these identities will retain them their entire lives. Most people who created a handle twenty years ago still use the same one today and have no intention of changing it. 
+* Combine this with the fact that the most expressive online experience one can have is through multiplayer game worlds and one can easily imagine a future where players will create avatars for games as young children that become part of their personal and professional lives as they grow older. 
+* Just as people today often have lifelong allegiance to a particular sports team, perhaps the guilds players join as children will influence their personal social networks for the rest of their lives.
+
+
+The designer usually works with a team
+
+
+* When making a game, a team of tremendous diversity is required
+* need a team of people with a wide variety of artistic, technical, design, and business skill
+*  if your game is going to be a great one, they will all have to pull together and set aside differences and disagreements to make the game as great as it can be
+
+
+Secret to successful teamwork is love 
+
+
+* you have to love the game you are making
+* if everyone on the team has a deep and true love for the game they are making together and for the audience they are making it for, all differences and disagreements will be set aside in service of bringing the game into existence and making it be as wonderful as it can possibly be
+* Everyone on the team feels like children anticipating Christmas when they think about the game getting finished and they think about that constantly
+
+
+Problem 1: Team members incapable of loving any game. 
+* some people get into the games business even though they have no particular love for games or the people who play them
+*  it is like carrying deadweight
+* often contribute little of use and constantly waste time arguing with team members who actually love the work.
+* team members in charge of management or budget are most likely to have this affliction
+* there is only one cure for a team member with this problem: get them off the team.
+
+
+Problem 2: team members in love with a different game than the one they are making
+* comes in many shapes and sizes
+* When you find members of your team have this problem, the key is to work with them
+* see if there is something about the current game that they can fall in love with, or perhaps they have some idea for a new feature or element that will take the current game somewhere new and different
+* shift in perspective turned a project they hated into one they loved, and it made a huge difference in game quality
+Problem 3: Team members in love with different visions of the same game
+* Most common and most challenging
+*  a team is full of people passionate about building a game, but everyone has very different ideas about what the game will be like
+*  get everyone on the same page about what the design is as soon as possible
+* will be arguments and disagreements, but if everyone hears them out and respectfully considers the ideas that others present, the team can work toward that all-important thing—a shared vision of something that all the team members love
+
+
+If you cant love the game, love the audience 
+* Getting others to love the game is part of your responsibility as a designer
+* Unless you find a way to love your game, the game you create will be mediocre at best
+* the insincerity of your contribution will show through
+* search long and hard for something in the game that you do love
+* think of it as what it really is, a game for the intended audience
+
+
+Lens of love: To use this lens, ask yourself these questions: 
+* Do I love my project? If not, how can I change that? 
+* Does everyone on the team love the project? If not, how can that be changed?
+
+
+Design together
+* include the team whenever possible in the design process
+* most of the people on the team with design ideas don’t want to hijack the game design
+* want their ideas to be heard
+* When the whole team participates in the design, your game will be stronger
+* not all design decisions get made ahead of time
+*  not uncommon for many different people on a project to feel that their contribution was the most important part of the game
+*  avoid “overfleshing” your designs
+
+
+If you include everyone in the design process, taking every idea and suggestion seriously, you will
+* Have more ideas to choose from 
+* Weed out flawed ideas quickly 
+* Be forced to view the game from many perspectives 
+* Make everyone on the team feel like they own the design
+
+
+A typical process
+Initial brainstorming: 
+* Involves as much of the team as possible
+
+
+Independent design: 
+* Core design team members think about ideas independently. 
+
+
+Design discussion: 
+* Core design members bring their independent ideas together to discuss and try to come to consensus on ideas. 
+
+
+Design presentation: 
+* The core design team presents their progress to the whole team, allowing time for comments and criticism
+* This identifies new problems and often turns into brainstorming, kicking off the next round of the iterative cycle.
+
+
+It takes both time and energy to involve the whole team in the design, but you will find that it makes the game stronger in the long run, provided your team is able to communicate
+
+
+Team communication 
+* Is a choice 
+* Ten keys to team communication
+
+
+Objectivity
+* the most likely to go wrong
+* easy to become attached to an idea that struck you like white lightning from heaven
+* if other team members don’t like your idea, where are you then? Nowhere, if you are going to fight a war of opinions and gut feelings
+* Personal preferences about these ideas don’t matter—all that matters is whether the ideas solve the problem
+* phrase alternatives as questions: What if we did B instead of A, a subtle difference
+* If you can develop good habits of objectivity as a designer, everyone will bring you design questions to answer without hesitation
+* people will want to include you in every design session, because by bringing a tone of objectivity to the room, your presence can help defuse tense struggles between people taking a less objective attitude
+* when a team design session has a tone of objectivity, every idea is taken seriously
+
+
+Clarity 
+* If communication is not clear, there is going to be confusion
+* When you explain something, check to see if people understand what you mean
+* Illustrate your ideas when possible
+*  if someone else says something that isn’t clear, don’t ever pretend you understand what they are saying
+* keep asking questions until you understand what they mean
+
+
+Persistence
+* Write things down
+* Verbal communication is momentary, easily misunderstood and forgotten
+* things that are recorded can be checked later by everyone on the team
+* Make sure someone in every design meeting is taking notes that can be shared with the team
+Comfort 
+* when people are comfortable, they are less distracted and communicate more freely
+* Make sure your team has a place to communicate that is quiet and with the right temperature, has enough chairs, and has a large writing surface; in short, it is a place that is physically comfortable
+* must also be emotionally comfortable
+Respect 
+* good listening is to respect the person you are listening to
+* People who do not feel respected tend to speak little, and when they do speak, they often are not honest about their feelings, for fear they will be judged harshly
+* People who feel respected speak freely, openly, and honestly
+*  treat them, at every moment, how you would like to be treated
+* Don’t cut them off or roll your eyes, even if you think what they are saying is foolish
+* be polite and patient at all times
+Time 
+* Impossible without trust 
+* if I can’t trust what you say and do, how can I know whether you respect me
+* Trust is not something that works on faith alone—relationships of trust gradually build up over time
+*  People who see each other day in and day out, constantly talking, constantly solving problems together, gradually learn how much they can trust each other, and when
+* digital communication isn’t good enough
+Honesty 
+* trust depends on honesty
+* If you have somehow developed a reputation for dishonesty in some area, even if it has nothing to do with game design or development, others will be afraid to be honest with you, which will inhibit team communication
+* Game development can sometimes get very political
+
+
+Privacy 
+* Being honest isn’t always easy, because sometimes the truth can be painful
+* Talking about these things honestly in a public forum can be difficult or impossible
+* Take the time to speak privately with each member of the team when you can—they will often present ideas and discuss problems they simply did not feel comfortable discussing publicly
+
+
+Unity 
+* many conflicting opinions and arguments about what is right for the game
+* the team must arrive at a decision everyone agrees upon
+* If one member of the team is stubborn on a particular point, you must treat them with the respect they deserve and work with them until a meaningful compromise can be found
+* Asking them to explain why this point is so important to them can often make the rest of the team understand why the point is important
+
+
+Love 
+* without objectivity, clarity, persistence, comfort, respect, trust, honesty, privacy, and unity, the love a team has for the game will be jeopardized
+Lens of team
+*  Is this the right team for this project? Why? 
+* Is the team communicating objectively? 
+* Is the team communicating clearly? 
+* Is the team comfortable with each other? 
+* Is there an air of trust and respect among the team? 
+* Is the team ultimately able to unify around decisions?
+
+
+Experiences can be judged by their interest curves 
+
+
+* Some experiences are more powerful than others 
+* when we make these graphs, we are generally charting the most powerful moments
+* When you chart an interest curve, you are figuring out how to best arrange the best moments of your experience, and you can’t do that if you don’t know what they are
+
+
+Lens of moments: Memorable moments are stars that make up the constellation of your interest 
+curve. To chart what is most important, ask yourself these questions:
+* What are the key moments in my game?
+* How can I make each moment as powerful as possible?
+
+
+Once you know your moments, how should you chart them out? 
+
+
+
+
+* The quality of an entertainment experience can be measured by the extent to which its unfolding sequence of events is able to hold a guest’s interest
+* the guest comes into the experience with some level of interest; otherwise, they probably wouldn’t be there
+* this initial interest comes from preconceived expectations about how entertaining the experience will be
+* Depending on the type of experience, these expectations are influenced by the packaging, advertisements, advice from friends, etc
+* we want this initial interest to be as high as possible to get guests in the door,overinflating it can actually make the overall experience less interesting
+* the experience starts, we come to point (B), sometimes called “the hook.” This is something that really grabs you and gets you excited about the experience.
+* Once the hook is over, we settle down to business. If the experience is well crafted, the guest’s interest will continually rise, temporarily peaking at points like (C) and (E) and occasionally dropping down a bit to points like (D) and (F), only in anticipation of rising again
+* at point (G), there is a climax of some kind
+*  by point (H), the story is resolved, the guest is satisfied, and the experience is over
+* Hopefully, the guest goes out with some interest left over, perhaps even more than when they came in
+
+
+  
+
+
+
+not every good entertainment experience follows this exact curve, but 
+most successful entertainment experiences will contain some of the elements that our picture of a good interest curve displays
+
+
+* lots of possibilities for bad interest curves
+
+
+A better interest curve 
+* the guest comes in with some interest at point (a) but is immediately disappointed, and due to the lack of a decent hook, the guest’s interest begins to wane
+* something somewhat interesting happens, which is good, but it doesn’t last, peaking at point (b), and the guest’s interest continues its downhill slide until it crosses, at point (c), the interest threshold
+* where the guest has become so disinterested in the experience that he changes the channel, leaves the theater, closes the book, or shuts off the game
+* something interesting does happen later at point (d), but it doesn’t last, and instead of coming to a climax, the experience just peters out at point (e)—not that it matters, since the guest probably gave up on it some time ago
+
+
+  
+
+
+
+Interest curves can be a very useful tool when creating an entertainment experience
+By charting out the level of expected interest over the course of an experience, trouble spots often become clear and can be corrected.
+when observing guests having the experience, it is useful to compare their level of observed interest to the level of interest that you, as an entertainer, anticipated they would have
+
+
+Patterns inside patterns 
+* once you start thinking about games and entertainment experiences in terms of interest curves, you start seeing the pattern of the good interest curve everywhere
+* it might make the most sense to cut the flat part from the game entirely
+*  useful to compare their level of observed interest to the level of interest that you, as an entertainer, anticipated they would have
+* might be great for some groups but boring for others or it might be an experience with “something for everyone,” meaning well-structured curves for several different demographic groups
+* Anytime someone tells a story that is interesting, engaging, or funny, the structure is there
+
+
+A fractional interest curve: Typical video games have this pattern in roughly three levels
+* Overall game: Intro movie, followed by a series of levels of rising interest, ending with a major climax where the player defeats the game. 
+* Each level: New aesthetics or challenges engage the player at the start, and then the player is confronted with a series of challenges (battles, puzzles, etc.) that provide rising interest until the end of the level, which often ends with some kind of “boss battle.” 
+* Each challenge: Every challenge the player encounters hopefully has a good interest curve in itself, with an interesting introduction, and stepped rising challenges as you work your way through it
+
+
+  
+
+
+
+
+
+
+
+Lens of interest curves: Exactly what captivates the human mind often seems different for every person, but the most pleasurable patterns of that captivation are remarkably similar for everyone. To see how a player’s interest in your experience changes over time, ask yourself these questions: 
+
+
+* If I draw an interest curve of my experience, how is it generally shaped? 
+* Does it have a hook?
+* Does it have gradually rising interest, punctuated by periods of rest? 
+* Is there a grand finale, more interesting than everything else? 
+* What changes would give me a better interest curve? 
+* Is there a fractal structure to my interest curve? Should there be? 
+* Do my intuitions about the interest curve match the observed interest of the players? If I ask playtesters to draw an interest curve, what does it look like
+
+
+What comprises interest? 
+* To determine the interest level, you have to experience it with your whole self, using your empathy and imagination and using skills of the right brain as well as the left
+*  overall interest can be broken down further into other factors
+
+
+Factor 1: Inherent interest
+* some events are simply more interesting than others
+* Generally, risk is more interesting than safety, fancy is more interesting than plain, and the unusual is more interesting than the ordinary
+* dramatic change and the potential for dramatic change are always interesting
+* we have internal drives that push us to be more interested in some things than others
+* The events don’t stand alone they build on one another, creating what is often called the story arc
+* Part of the inherent interest of events depends on how they relate to one another
+
+
+Factor 2: poetry of presentation 
+* the aesthetics of the entertainment experience
+* The more beautiful the artistry used in presenting the experience, the more interesting and compelling the guests will find it
+*  if you can give a beautiful presentation to something that is inherently interesting in the first place, all the better
+Factor 3: projection 
+* you compel a guest to use their powers of empathy and imagination to put themselves into the experience
+* is crucial to understanding the commonality between story and gameplay and requires some explanation
+* Events that happen to us are just more interesting than events that happen to other people
+* storytellers know that guests have the power of empathy, the ability to put themselves in the place of another person, An important part of the art of storytelling is to create characters that the guests can empathize with easily, for the more the guests can empathize with the characters, the more interesting the events become that happen to those characters
+* the characters in it are strangers, as you get to know them, they become like your friends and you begin to care about what happens to them, and your interest in events involving them grows
+* you might even mentally put yourself in their place, bringing you to the height of projection,In terms of trying to build projection, imagination is as important as empathy
+
+
+Humans exist in two worlds: the outward-facing world of perception and the inward-facing world of imagination
+* Every entertainment experience creates its own little world in the imagination. 
+* does not have to be realistic but it does need to be internally consistent. 
+* When the world is consistent and compelling, it fills the guest’s imagination, and mentally, the guest enters the world.
+* often say that the guest is “immersed” in the world. 
+* This kind of immersion increases projection, boosting the overall interest of the guest significantly. 
+* The suspension of disbelief that keeps the guest immersed in the story world is fragile indeed. 
+* One small contradiction is all it takes to bring the guest back to reality and “take them out” of the experience
+* Interactive entertainment has an even more remarkable advantage, in terms of projection
+
+
+
+
+
+
+
+
+
+
+Lens of inherent interest: ome things are just interesting. Use this lens to be sure your game has inherently interesting qualities by asking these questions: 
+* What aspects of my game will capture the interest of a player immediately? 
+* Does my game let the player see or do something they have never seen or done before?
+* What base instincts does my game appeal to? Can it appeal to more of them? 
+* What higher instincts does my game appeal to? Can it appeal to more of those? 
+* Does dramatic change and anticipation of dramatic change happen in my game? How can it be more dramatic?
+
+
+Lens of beauty: Beauty is mysterious. Why, for example, do the most beautiful things have a touch of sadness about them? Use this lens to contemplate the mysteries of beauty in your game by asking yourself these questions: 
+* What elements make up my game? How can each one be more beautiful?
+* Some things are not beautiful in themselves, but are beautiful in combination. How can the elements of my game be composed in a way that is poetic and beautiful? 
+* What does beauty mean within the context of my game?
+
+
+Lens of projection: One key indicator that someone is enjoying an experience is that they have projected their imagination into it. When they do this, their enjoyment of the experience increases significantly, in a sort of virtuous circle. To examine whether your game is well suited to induce projection from your players, ask yourself these questions: 
+* What is there in my game that players can relate to? What else can I add? 
+* What is there in my game that will capture a player’s imagination? What else can I add?
+* Are there places in the game that players have always wanted to visit?
+*  Does the player get to be a character they could imagine themselves to be? 
+*  Are there other characters in the game that the players would be interested to meet (or to spy on)? 
+* Do the players get to do things that they would like to do in real life, but can’t? 
+* Is there an activity in the game that once a player starts doing, it is hard to stop?
+
+
+Consider the popular videogame Tetris. The game mainly consists of an endless sequence of falling blocks. This leaves little room for inherent interest or poetry of presentation; however, the projection can be intense. The guest makes all the decisions, and success or failure is completely contingent on the guest’s performance. This is a shortcut that traditional storytelling is unable to take. In terms of an interesting entertainment experience, the large amount of projection makes up for what is lacking in poetry or inherent interest
+
+
+
+
+Games transform their players
+
+
+
+
+How do games change us?
+* Some believe that they have no lasting effect
+* Some think they just serve as a momentary distraction
+
+
+
+
+Games can be both bad and good 
+
+
+Emotional maintenance
+
+
+
+
+vent anger and frustration: Games, particularly sports involving a lot of physical activity (football, basketball) or videogames involving a lot of fast action and battles, can be a cathartic way to “take out your feelings” on someone else in the safe world of the game.
+
+
+Cheer up: When a person is depressed, whimsical games with funny situations (Cranium, Mario Party) can be a way to take your mind off your troubles and remember that you can still have fun. ● Gain perspective: There are times when our troubles loom large on us and little things seem like they are the end of the world. Playing games gives us some distance from our real-world problems, so when we return, we more easily see them for what they are. ● Build confidence: After a few real-life failures, it is easy to start to feel like you aren’t good at anything, which can lead to a feeling that everything in your life is beyond your control. Playing a game where your choices and actions can lead to a successful outcome can give a feeling of mastery that helps remind you that you can succeed and that you have some control over your destiny. ● Relax: Sometimes we are simply unable to let go of our worries, because of either their size or their sheer number. Games force our brains to engage with something completely unconnected to our worries, letting us escape them for a while and giving us a much needed “emotional rest.”
+
+
+Connecting
+* not always an easy thing to do
+* each caught up in our own problems and worries that others might not understand or care about
+* Games can act as a “social bridge,” giving us reasons to interact with each other, letting us see how others respond to a variety of situations, introducing topics of conversation, showing us what we have in common, and creating shared memories
+
+
+Exercise
+* give us reason and motivation to perform healthy physical exercise
+
+
+Education 
+* Good education games are hard to make
+
+
+Gicing the brain what it wants
+* what makes education difficult is that it can be boring
+* games, by their nature, are masterful at keeping the brain fully engaged—and this is because they give the brain what it wants
+
+
+ Visible progress:
+*  a tremendous human motivator
+* good education must let the student experience visible progress
+* Game structures like leveling up and completing quests are one way to make progress clear and visible. 
+
+
+Make the abstract concrete: 
+* The human brain is challenged by abstract concepts.
+*  has much more facility with that which is concrete. This is why good teachers use concrete examples to shed light on abstract principles
+* Games are naturally manipulable and can be good at making the abstract concrete. This is why war games and simulations are such an important part of military education
+
+
+Full engagement:
+*  When the brain has nothing to do, it gets “itchy,” and we get a kind of restless feeling. 
+* We also get this feeling when one part of the brain is engaged (say, listening to a lecture) but another part, such as the musical, social, or kinesthetic part, is not. 
+* This is why students in class often find themselves humming, whispering to neighbors, or tapping their fingers—those parts of the brain are eager for activity. Games excel at full engagement, occupying the eyes, ears, hands, and mind, often full of music and social activities. When every part of the mind is at a comfortable level of activity, there can be no level of distracting restlessness, and education can take place more easily. 
+
+
+Lots of little goals: The brain loves clear and interesting goals, and good games are long chains of concrete, achievable, rewarding goals
+
+
+Facts
+* people naturally think of using videogames for is to convey facts and to drill those facts
+* video games, in particular, can make use of visuals and meaningful context that can help players learn and remember these facts
+
+
+Problem solving 
+* naturally, when it comes to practicing problem solving, games have a chance to shine, particularly in cases where students need an opportunity to show that they can use a variety of different skills and techniques in an integrated way
+* it may be the case that gamelike simulations may 
+* start to serve as final exams in areas where multiple techniques need to be combined in a realistic setting, such as police and rescue work, geology, architecture, and management
+Systems of relationships
+* interactive demonstration is one place that games and simulations excel
+* In this model,  being able to do something is the pinnacle of knowledge, and game-based learning is almost entirely focused on doing
+* Lectures, readings, and videos all have the weakness of being linear, and a linear medium is a very difficult way to convey a complex system of relationships
+* a tremendous difference in understanding between people who have merely read about these things and people who have played with simulations of them, because the players have not just read about the systems of relationships but also experienced them
+* one of the most powerful ways they experience them is by testing their limits, pushing the simulation until it breaks
+
+
+
+
+  
+
+
+
+New insights
+* The important part of simulations of systems of relationships is the new insights that are given to the players—they are able to see these systems in ways they couldn’t before
+* creating the change in perspective that leads to new insights is something games are very good at, since games create whole new realities, with new sets of rules, where you aren’t you anymore and you play the role of someone else entirely
+* a power of games that is just beginning to be tapped for the purposes of improving people’s lives
+
+
+Curiosity 
+* students who are curious have an advantage over their classmates who are not
+* curious students are more likely to learn things on their own and they are more likely to retain what they learn, since they learn it because they want to
+
+
+Creating teachable moments 
+* Knowledge cannot simply be poured into a mind
+* The mind must be put into a state of readiness, a state where certain kinds of knowledge are suddenly useful and important and the mind hungrily reaches out to grab the knowledge, to absorb it, to use it immediately, and to save it for later
+
+
+Transformational  games
+* Educational games are one kind of helpful game, but, as we’ve seen earlier, not the only kind
+*  games are one kind of helpful game, but, as we’ve seen earlier, not the only kind. Games that help us exercise, connect with others, or change our habits are also meaningfully helpful
+* some have started to use the phrase serious games to separate them from games that are only for entertainment
+Transformational Tip #1: Define Your Transformation
+* the most important reason to use the phrase “transformational games” is because it helps everyone remember the goal of creating the game: to transform the player
+* designers state their goal as “my game teaches math” or “my game gets people to exercise.” But those are just vague statements
+* say nothing about what kind of change takes place in the player or how that change is to come about
+* Consider how much clearer it is when you say “my game changes players by introducing them to the concept of factoring and builds their familiarity with factors by giving them practice at breaking down composite numbers into their base factors” or “my game helps players develop a daily habit of exercise by giving them small, achievable challenges each day
+* To create successful and meaningful transformations, you must clearly state the change you want to take place and also the specifics of how and why your game will foster that change
+
+
+Transformational Tip #2: Find Great Subject Matter Experts 
+* important to realize that there are two kinds of experts— ones that have all the facts and others that know the best ways to teach those facts
+* if you can align yourself with both kinds of experts and you can learn to listen to them about what is and isn’t important, you will be taking great strides toward making a truly great transformational game
+Transformational Tip #3: What Does the Instructor Need?
+* he reality of transformational games is that they are used by an instructor to help transform someone—and if that is the case, why try to replace them
+* you get the benefit of the instructor’s wisdom and experience, not to mention their gratitude because you created a tool that magnifies their abilities and helps them achieve your shared goal of transforming students for the better
+* experiences where a teacher can guide students through multiplayer game simulations will suddenly become feasible, and I expect they will have a striking effect on education
+
+
+Transformational Tip #4: Don’t Do Too Much
+* tempting to set a goal of replacing an entire curriculum with your amazing do-everything transformational game
+* when you do this, you end up with something that does everything poorly
+* much better to pick one key transformation and do that especially well
+
+
+Transformational Tip #5: Assess Transformation Appropriately
+* the most challenging things about creating transformational games is knowing whether the intended transformation actually took place
+* most transformational games are experimental, and until the games are finished, it can be hard to know if they are really making the intended changes in the player
+* Five levels of assessment
+
+
+1. Feels like it: This is the lowest possible level of assessment. This is when the 
+designers and players agree that it “feels like” some transformation is taking 
+place. While this is arguably better than “feels like it’s not working,” it still isn’t 
+Much.
+
+
+
+
+2. Anecdotes: This is when you have some stories about situations where people 
+played your game and it clearly caused some kind of useful transformation. 
+Anecdotes can be very inspiring and sound good in a pitch, but they aren’t much 
+proof of effectiveness.
+
+
+3. Subject matter expert (SME) approval: If you have high-quality SMEs, their 
+stamp of approval that the game is an effective tool for transformation is very 
+meaningful. Again, it isn’t really proof that it is working, but it is certainly a 
+strong indicator that you are on the right track.
+
+
+4. Informal surveys and assessment: Tests either during your game or after the 
+fact demonstrating a change in the player are an even better way to prove that 
+your game is doing its job.
+
+
+5. Scientific testing and assessment: Formalized testing, organized by scientists who are knowledgeable about the subject matter and who know enough 
+about statistics to conduct meaningful scientific analysis of your players, is certainly the ideal way to prove to yourself that your game is causing the desired 
+Transformation
+ Different situations call for different methods
+
+
+
+
+Transformational Tip #6: Choose the Right Venue 
+* you need to think hard about where your players will be when they play it and how that will affect the transformation
+* The context of where, how, and with whom your game is played will make a tremendous difference in whether you meet your transformational goals
+
+
+Transformational Tip #7: Accept the Realities of the Market
+* it can be very challenging to find a way to turn great transformational games into a sustainable business model
+*  a clear understanding of what people will and will not pay for and why
+
+
+Can games be bad for you? 
+* Some people are afraid of anything new
+* many new things are dangerous
+Violence
+* games and stories are often about conflict and violent action is a simple, dramatic way to settle a conflict
+*  do violent games bring about this kind of psychopathic desensitization, or is something different happening
+*  the more they see through the aesthetics of the game (for graphic violence is just an aesthetic choice) and put their minds in the pure problem-solving world of game mechanics
+* don’t seem to have damaged our collective psyche, but as designers, we must be on guard
+
+
+Addiction 
+* second greatest fear people have about the dangers of gaming is that of addiction, that is, playing so much that it is interfering with or damaging more important things in life, such as school, work, health, and personal relationships
+* designers do continuously seek to create games that capture and engage the mind
+* worth pointing out that self-destructive gameplaying is nothing new
+* no denying that for some people, this can be a real problem. The question is, “What can game designers do about it?”
+* Some have suggested that if the designers wouldn’t build in such attractive qualities, the problem would go away
+* should be on all our minds, just as it is on the mind of designer
+
+
+Experiences 
+* we are designing experiences
+* experiences are the only things that can change people—sometimes in unexpected ways
+* just starting to understand how games can change us
+* imperative that we learn more about how they do, because the more we learn, the more we can use them not just as an amusement, but as a valuable tool for improving the human condition
+[a]a game environment or level that is contained within another larger game environmen
